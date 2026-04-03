@@ -512,6 +512,7 @@ function calcScores(){
 
 function showResults(){
   const s=calcScores();const prof=PROFILES[s.key]||PROFILES.fff;
+  showScreen('screen-results');
   document.getElementById('r-type-name').textContent=prof.name;
   document.getElementById('r-profile-tag').textContent=prof.tag;
   const setCard=(id,pct,cls)=>{
@@ -536,7 +537,6 @@ function showResults(){
   const groups={fit:[],focus:[],'flair-msg':[],'flair-del':[]};Object.entries(s.subScores).forEach(([n,d])=>groups[d.dim].push({name:n,pct:d.pct}));
   const dl={fit:{label:'Fit',cls:'fit'},focus:{label:'Focus',cls:'focus'},'flair-msg':{label:'Flair: Message',cls:'flair-msg'},'flair-del':{label:'Flair: Delivery',cls:'flair-del'}};
   document.getElementById('subscale-breakdown').innerHTML=Object.entries(groups).map(([dim,subs])=>'<div class="subscale-group"><div class="subscale-group-label '+dl[dim].cls+'">'+dl[dim].label+'</div>'+subs.map(sub=>'<div class="subscale-row"><div class="subscale-name">'+sub.name+'</div><div class="subscale-bar-wrap"><div class="subscale-bar-fill '+dl[dim].cls+'" style="width:0%" data-pct="'+sub.pct+'"></div></div><div class="subscale-pct">'+sub.pct+'%</div></div>').join('')+'</div>').join('');
-  showScreen('screen-results');
   setTimeout(()=>{document.querySelectorAll('.subscale-bar-fill').forEach(el=>{el.style.width=el.dataset.pct+'%';});},400);
 }
 
