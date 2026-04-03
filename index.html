@@ -166,6 +166,15 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
 .results-cta p{color:rgba(255,255,255,0.62);font-size:16px;max-width:460px;margin:0 auto 24px;line-height:1.6;}
 .results-cta a{display:inline-block;background:var(--red);color:var(--white);font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;padding:13px 32px;border-radius:2px;text-decoration:none;transition:background 0.2s;}
 .results-cta a:hover{background:var(--red-dark);}
+.cta-buttons{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:4px;}
+.btn-pdf{display:inline-block;background:transparent;color:var(--white);font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;padding:13px 28px;border-radius:2px;border:2px solid rgba(255,255,255,0.4);cursor:pointer;transition:all 0.2s;}
+.btn-pdf:hover{border-color:var(--white);background:rgba(255,255,255,0.1);}
+.btn-subscribe{display:inline-block;background:var(--white);color:var(--black);font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;padding:13px 28px;border-radius:2px;text-decoration:none;transition:background 0.2s;}
+.btn-subscribe:hover{background:var(--grey-light);}
+.btn-visit{display:inline-block;background:var(--red);color:var(--white);font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;padding:13px 28px;border-radius:2px;text-decoration:none;transition:background 0.2s;}
+.btn-visit:hover{background:var(--red-dark);}
+@media(max-width:620px){.cta-buttons{flex-direction:column;}.btn-pdf,.btn-subscribe,.btn-visit{text-align:center;}}
+@media print{#progress-bar-wrap,#screen-intro,#screen-questions,#screen-email,.results-cta{display:none!important;}.screen{display:block!important;}}
 @media(max-width:620px){
   .intro-hero,.intro-body,.q-body,.results-body{padding-left:18px;padding-right:18px;}
   .intro-pillars,.intro-meta{grid-template-columns:1fr;}
@@ -268,7 +277,11 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
   <div class="results-cta">
     <h3>Want to go deeper?</h3>
     <p>Hundreds of free articles, podcasts and videos to build on every area of your profile.</p>
-    <a href="https://www.presentation-guru.com" target="_blank">Visit Presentation Guru</a>
+    <div class="cta-buttons">
+      <button class="btn-pdf" onclick="downloadPDF()">Download Your Results as PDF</button>
+      <a class="btn-subscribe" href="https://presentation-guru.us5.list-manage.com/subscribe?u=816f112ee06e3f52ea77a1f2a&id=7ed36e13c8" target="_blank">Subscribe to Presentation Guru</a>
+      <a class="btn-visit" href="https://www.presentation-guru.com" target="_blank">Visit Presentation Guru</a>
+    </div>
   </div>
 </section>
 
@@ -429,7 +442,7 @@ const PRACTICE={
 
 let answers={}, currentQ=0;
 
-function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active');window.scrollTo(0,0);}
+function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active');setTimeout(()=>window.scrollTo({top:0,behavior:'smooth'}),50);}
 function updateProgressBar(){document.getElementById('progress-bar').style.width=Math.round((Object.keys(answers).length/QUESTIONS.length)*100)+'%';}
 function startAssessment(){showScreen('screen-questions');renderQuestion();}
 
@@ -476,7 +489,7 @@ function nextQuestion(){
 }
 function prevQuestion(){if(currentQ>0){currentQ--;renderQuestion();}}
 
-const MC_ACTION='https://YOUR_MAILCHIMP_FORM_ACTION_URL_HERE';
+const MC_ACTION='https://presentation-guru.us5.list-manage.com/subscribe/post?u=816f112ee06e3f52ea77a1f2a&id=7ed36e13c8';
 const MC_FIELD='EMAIL';
 
 function submitEmail(){
@@ -546,6 +559,20 @@ function showResults(){
 }
 
 function toggleCat(id){document.getElementById(id).closest('.practice-category').classList.toggle('open');}
+
+function downloadPDF(){
+  // Hide everything except results, then print
+  var style=document.createElement('style');
+  style.id='print-override';
+  style.textContent='@media print{body *{visibility:hidden;}#screen-results,#screen-results *{visibility:visible;}#screen-results{position:absolute;left:0;top:0;width:100%;}.results-cta{display:none!important;}}';
+  document.head.appendChild(style);
+  window.print();
+  setTimeout(function(){
+    var el=document.getElementById('print-override');
+    if(el)el.parentNode.removeChild(el);
+  },1000);
+}
+
 document.getElementById('q-total').textContent=QUESTIONS.length;
 </script>
 </body>
