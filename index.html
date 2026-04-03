@@ -484,7 +484,7 @@ function submitEmail(){
   let called=false;
   function goToResults(){if(called)return;called=true;showResults();}
 
-  const mcReady = MC_ACTION.indexOf('YOUR_MAILCHIMP')===−1;
+  const mcReady = MC_ACTION.indexOf('YOUR_MAILCHIMP')===-1;
   if(mcReady){
     const to=setTimeout(goToResults,4000);
     try{
