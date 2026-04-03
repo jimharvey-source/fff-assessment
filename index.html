@@ -452,13 +452,18 @@ function renderQuestion(){
   const c=document.getElementById('question-card');c.style.animation='none';c.offsetHeight;c.style.animation='fadeUp 0.3s ease';
 }
 
+let advanceTimer=null;
 function selectAnswer(val){
   answers[QUESTIONS[currentQ].id]=val;
   document.querySelectorAll('.scale-btn').forEach((btn,i)=>btn.classList.toggle('selected',i+1===val));
   document.getElementById('q-progress-text').textContent=Object.keys(answers).length+' of '+QUESTIONS.length+' answered';
   updateProgressBar();
-  if(currentQ<QUESTIONS.length-1)setTimeout(()=>nextQuestion(),350);
-  else document.getElementById('btn-next').disabled=false;
+  if(currentQ<QUESTIONS.length-1){
+    if(advanceTimer)clearTimeout(advanceTimer);
+    advanceTimer=setTimeout(()=>{advanceTimer=null;nextQuestion();},400);
+  } else {
+    document.getElementById('btn-next').disabled=false;
+  }
 }
 
 function nextQuestion(){
