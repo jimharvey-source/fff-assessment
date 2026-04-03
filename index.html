@@ -480,12 +480,23 @@ function submitEmail(){
   const inp=document.getElementById('email-input');
   if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){inp.classList.add('error');err.classList.add('show');return;}
   inp.classList.remove('error');err.classList.remove('show');
-  const to=setTimeout(()=>showResults(),4000);
-  try{
-    const url=MC_ACTION.replace('/post?','/post-json?')+'&'+MC_FIELD+'='+encodeURIComponent(email)+'&c=mc_'+Date.now();
-    const sc=document.createElement('script');sc.onerror=()=>{clearTimeout(to);showResults();};sc.src=url;document.head.appendChild(sc);
-    setTimeout(()=>{clearTimeout(to);showResults();},4000);
-  }catch(e){clearTimeout(to);showResults();}
+
+  let called=false;
+  function goToResults(){if(called)return;called=true;showResults();}
+
+  const mcReady = MC_ACTION.indexOf('YOUR_MAILCHIMP')===−1;
+  if(mcReady){
+    const to=setTimeout(goToResults,4000);
+    try{
+      const url=MC_ACTION.replace('/post?','/post-json?')+'&'+MC_FIELD+'='+encodeURIComponent(email)+'&c=mc_'+Date.now();
+      const sc=document.createElement('script');
+      sc.onload=()=>{clearTimeout(to);goToResults();};
+      sc.onerror=()=>{clearTimeout(to);goToResults();};
+      sc.src=url;document.head.appendChild(sc);
+    }catch(e){clearTimeout(to);goToResults();}
+  } else {
+    goToResults();
+  }
 }
 
 function calcScores(){
