@@ -44,6 +44,12 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
 .btn-start{display:inline-block;background:var(--red);color:var(--white);font-family:'Barlow Condensed',sans-serif;font-size:18px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;padding:15px 42px;border:none;cursor:pointer;border-radius:2px;transition:background 0.2s;}
 .btn-start:hover{background:var(--red-dark);}
 .intro-credit{margin-top:28px;font-size:13px;color:var(--grey-text);}
+.intro-disclaimer{margin-top:16px;font-size:12px;color:var(--grey-text);line-height:1.55;padding:10px 14px;border:1px solid var(--border);border-radius:2px;background:var(--off-white);}
+.intro-disclaimer a{color:var(--red);text-decoration:none;}
+.results-methodology{margin:0 0 40px;padding:20px 24px;border:1px solid var(--border);border-radius:2px;background:var(--off-white);font-size:13px;color:var(--grey-text);line-height:1.65;}
+.results-methodology p+p{margin-top:8px;}
+.results-methodology a{color:var(--red);text-decoration:none;}
+@media print{.results-methodology{display:block!important;}}
 .intro-credit a{color:var(--red);text-decoration:none;}
 
 /* QUESTIONS */
@@ -207,7 +213,8 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
       <div class="meta-item"><div class="meta-icon">&#10003;</div><div><h4>Free</h4><p>No charge. Developed to BPS standard.</p></div></div>
     </div>
     <button class="btn-start" onclick="startAssessment()">Begin the Assessment</button>
-    <p class="intro-credit">Developed by <a href="https://www.themessagebusiness.com" target="_blank">Jim Harvey</a> and John Zimmer for <a href="https://www.presentation-guru.com" target="_blank">Presentation Guru</a></p>
+    <p class="intro-credit">Developed by <a href="https://www.themessagebusiness.com" target="_blank" rel="noopener noreferrer">Jim Harvey</a> and John Zimmer for <a href="https://www.presentation-guru.com" target="_blank" rel="noopener noreferrer">Presentation Guru</a></p>
+    <p class="intro-disclaimer">The FFF Presentation Skills Assessment is a self-report development tool, not a clinical or diagnostic instrument. It is designed for reflection and professional development. Results reflect your own perceptions at the time of taking and should not be used for recruitment or performance management purposes.</p>
   </div>
 </section>
 
@@ -274,13 +281,20 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
     <div id="practice-menu" style="margin-bottom:40px;"></div>
     <div class="subscale-section"><div class="section-heading">Your Scores by Competency</div><div id="subscale-breakdown"></div></div>
   </div>
+  <div class="results-body" style="max-width:900px;margin:0 auto;padding:0 40px 48px;">
+    <div class="results-methodology">
+      <p><strong>About this assessment.</strong> The FFF Presentation Skills Assessment is a self-report development tool designed to support reflection and professional growth. Your results reflect your own perceptions at the time of taking. They are not a fixed or clinical verdict.</p>
+      <p>The tool is in active development. It draws on more than 30 years of presentation coaching practice and the Fit, Focus and Flair competency framework. It has not yet been through formal psychometric validation. Results should be used as a starting point for development, not as a definitive measure of ability.</p>
+      <p>The tool is not intended for use in recruitment, selection, or performance management. If you are a researcher or practitioner interested in collaborating on validation work, contact jim.harvey@themessagebusiness.com</p>
+    </div>
+  </div>
   <div class="results-cta">
     <h3>Want to go deeper?</h3>
     <p>Hundreds of free articles, podcasts and videos to build on every area of your profile.</p>
     <div class="cta-buttons">
       <button class="btn-pdf" onclick="downloadPDF()">Download Your Results as PDF</button>
-      <a class="btn-subscribe" href="https://presentation-guru.us5.list-manage.com/subscribe?u=816f112ee06e3f52ea77a1f2a&id=7ed36e13c8" target="_blank">Subscribe to Presentation Guru</a>
-      <a class="btn-visit" href="https://www.presentation-guru.com" target="_blank">Visit Presentation Guru</a>
+      <a class="btn-subscribe" href="https://presentation-guru.us5.list-manage.com/subscribe?u=816f112ee06e3f52ea77a1f2a&id=7ed36e13c8" target="_blank" rel="noopener noreferrer">Subscribe to Presentation Guru</a>
+      <a class="btn-visit" href="https://www.presentation-guru.com" target="_blank" rel="noopener noreferrer">Visit Presentation Guru</a>
     </div>
   </div>
 </section>
