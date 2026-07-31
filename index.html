@@ -777,6 +777,15 @@ function updatePreparedFor(){
 
 function downloadPDF(){
   updatePreparedFor();
+  // Set the suggested PDF filename from the name field, via the page title
+  var origTitle=document.title;
+  var nm=document.getElementById('report-name').value.trim();
+  if(nm){
+    var safe=nm.replace(/[^a-z0-9]+/gi,'_').replace(/^_+|_+$/g,'');
+    document.title=safe+'_FFF_Assessment';
+  } else {
+    document.title='FFF_Assessment';
+  }
   // Hide everything except results, then print
   var style=document.createElement('style');
   style.id='print-override';
@@ -786,6 +795,7 @@ function downloadPDF(){
   setTimeout(function(){
     var el=document.getElementById('print-override');
     if(el)el.parentNode.removeChild(el);
+    document.title=origTitle;
   },1000);
 }
 
