@@ -120,6 +120,11 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
 .results-hero .rlabel{font-family:'Barlow Condensed',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--red);margin-bottom:10px;}
 .results-hero h2{font-family:'Barlow Condensed',sans-serif;font-size:clamp(38px,6vw,64px);font-weight:700;text-transform:uppercase;color:var(--white);line-height:1.0;margin-bottom:8px;}
 .profile-tag{font-family:'Barlow Condensed',sans-serif;font-size:17px;font-weight:600;color:rgba(255,255,255,0.55);text-transform:uppercase;letter-spacing:0.06em;}
+.prepared-for{font-family:'Barlow',sans-serif;font-size:15px;font-weight:400;color:rgba(255,255,255,0.75);margin-top:14px;letter-spacing:0.02em;}
+.name-input-wrap{max-width:360px;margin:0 auto 16px;text-align:left;}
+.name-input-wrap label{display:block;font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted,#777);margin-bottom:6px;}
+.name-input-wrap input{width:100%;padding:13px 15px;border:1.5px solid var(--border);border-radius:2px;font-family:'Barlow',sans-serif;font-size:15px;outline:none;transition:border-color 0.2s;}
+.name-input-wrap input:focus{border-color:var(--red);}
 .results-body{max-width:900px;margin:0 auto;padding:48px 40px;}
 .score-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--border);border:1px solid var(--border);margin-bottom:40px;}
 .score-card{background:var(--white);padding:22px 18px;}
@@ -444,6 +449,7 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
     <div class="rlabel">Your FFF Profile</div>
     <h2 id="r-type-name">Complete Presenter</h2>
     <div class="profile-tag" id="r-profile-tag">Fit &middot; Focus &middot; Flair</div>
+    <div class="prepared-for" id="r-prepared-for" style="display:none;"></div>
   </div>
   <div class="results-body">
     <div class="score-grid">
@@ -470,6 +476,10 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
   <div class="results-cta">
     <h3>Want to go deeper?</h3>
     <p>Hundreds of free articles, podcasts and videos to build on every area of your profile.</p>
+    <div class="name-input-wrap">
+      <label for="report-name">Add your name to the report (optional)</label>
+      <input type="text" id="report-name" maxlength="60" placeholder="Your name" oninput="updatePreparedFor()">
+    </div>
     <div class="cta-buttons">
       <button class="btn-pdf" onclick="downloadPDF()">Download Your Results as PDF</button>
       <a class="btn-subscribe" href="https://presentation-guru.us5.list-manage.com/subscribe?u=816f112ee06e3f52ea77a1f2a&id=7ed36e13c8" target="_blank" rel="noopener noreferrer">Subscribe to Presentation Guru</a>
@@ -758,7 +768,15 @@ function showResults(){
 
 function toggleCat(id){document.getElementById(id).closest('.practice-category').classList.toggle('open');}
 
+function updatePreparedFor(){
+  var name=document.getElementById('report-name').value.trim();
+  var line=document.getElementById('r-prepared-for');
+  if(name){line.textContent='Prepared for '+name;line.style.display='block';}
+  else{line.textContent='';line.style.display='none';}
+}
+
 function downloadPDF(){
+  updatePreparedFor();
   // Hide everything except results, then print
   var style=document.createElement('style');
   style.id='print-override';
