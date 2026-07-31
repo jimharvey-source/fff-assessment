@@ -645,7 +645,7 @@ const PRACTICE={
 
 let answers={}, currentQ=0;
 
-function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active');setTimeout(()=>window.scrollTo({top:0,behavior:'smooth'}),50);}
+function showScreen(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));var el=document.getElementById(id);el.classList.add('active');requestAnimationFrame(function(){requestAnimationFrame(function(){window.scrollTo({top:0,behavior:'smooth'});el.scrollIntoView({behavior:'smooth',block:'start'});});});}
 function updateProgressBar(){document.getElementById('progress-bar').style.width=Math.round((Object.keys(answers).length/QUESTIONS.length)*100)+'%';}
 function startAssessment(){
   showScreen('screen-questions');renderQuestion();
