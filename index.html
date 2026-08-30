@@ -99,7 +99,7 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
 .q-progress-text{font-size:13px;color:var(--grey-text);}
 
 /* EMAIL */
-#screen-email{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:60px 20px;background:var(--off-white);}
+#screen-email.active{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:60px 20px;background:var(--off-white);}
 .email-card{background:var(--white);border:1px solid var(--border);border-radius:4px;padding:48px 44px;max-width:500px;width:100%;text-align:center;}
 .email-card .badge{margin-bottom:14px;}
 .email-card h2{font-family:'Barlow Condensed',sans-serif;font-size:30px;font-weight:700;text-transform:uppercase;margin-bottom:12px;line-height:1.1;}
@@ -727,7 +727,7 @@ function submitEmail(){
 function calcScores(){
   const dims={fit:[],focus:[],'flair-msg':[],'flair-del':[]};const subs={};
   QUESTIONS.forEach(q=>{const raw=answers[q.id]||3;const sc=q.rev?6-raw:raw;dims[q.dim].push(sc);if(!subs[q.sub])subs[q.sub]={dim:q.dim,scores:[]};subs[q.sub].scores.push(sc);});
-  const pct=arr=>Math.round((arr.reduce((a,b)=>a+b,0)/(arr.length*5))*100);
+  const pct=arr=>Math.round((arr.reduce((a,b)=>a+(b-1),0)/(arr.length*4))*100);
   const fitP=pct(dims.fit),focusP=pct(dims.focus),fmP=pct(dims['flair-msg']),fdP=pct(dims['flair-del']);
   const flairP=Math.round((fmP+fdP)/2);
   const key=(fitP>=60?'F':'f')+(focusP>=60?'F':'f')+(flairP>=60?'F':'f');
