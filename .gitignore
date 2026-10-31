@@ -1,0 +1,11 @@
+# Working files kept on the Mac, never published
+Claude outputs/
+*.docx
+fff-claude-project-instructions.md
+*.bak*
+*.pre*
+.DS_Store
+node_modules/
+.env*
+.vercel
+fff-pro-build/
