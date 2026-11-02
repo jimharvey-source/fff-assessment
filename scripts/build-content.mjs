@@ -111,7 +111,22 @@ for (const s of sections(find('Subscale pages')[0].body, 3)) {
     if (key.startsWith('what this measures')) entry.measures = strip(lab.text);
     else if (key.startsWith('what your score tells you')) entry.score = banded();
     else if (key.startsWith('why it matters')) entry.matters = strip(lab.text);
-    else if (key.startsWith('what to practise next')) entry.practise = banded();
+    else if (key.startsWith('what to practise next')) {
+      // Two numbered lists, one per band, each headed by its band in italics.
+      const lists = { high: [], low: [] };
+      let band = null;
+      for (let j = i + 1; j < ps.length && !labelled(ps[j]); j++) {
+        if (/^\*60 and above/i.test(ps[j])) band = 'high';
+        else if (/^\*Below 60/i.test(ps[j])) band = 'low';
+        else if (band && /^\d+\. /.test(ps[j])) lists[band] = ps[j].split('\n').map(l => strip(l.replace(/^\d+\. /, '')));
+      }
+      entry.practiseList = lists;
+      entry.practise = { high: lists.high[0], low: lists.low[0] };   // the headline step, used by the 90-day plan
+    }
+    else if (key.startsWith("from jim's notebook")) {
+      const nm = lab.text.match(/^"(.+)"\s*\(([^)]+)\)\s*$/s);
+      if (nm) entry.note = { text: strip(nm[1]), source: nm[2].trim() };
+    }
     else if (key.startsWith('go deeper')) entry.deeper = strip(lab.text);
     else if (key.startsWith('read online')) {
       const lm = lab.text.match(/\[([^\]]+)\]\((https?:[^)]+)\)/);
@@ -120,6 +135,8 @@ for (const s of sections(find('Subscale pages')[0].body, 3)) {
   }
   for (const f of ['measures', 'matters', 'deeper']) if (!entry[f]) errors.push(`${name}: no ${f}`);
   for (const f of ['score', 'practise']) if (!entry[f]?.high || !entry[f]?.low) errors.push(`${name}: ${f} missing a band`);
+  for (const band of ['high', 'low']) if ((entry.practiseList?.[band] || []).length < 3) errors.push(`${name}: fewer than three ways to practise (${band})`);
+  if (!entry.note) errors.push(`${name}: no notebook line`);
   subscales[name] = entry;
 }
 if (Object.keys(subscales).length !== 15) errors.push(`${Object.keys(subscales).length} subscales, expected 15`);

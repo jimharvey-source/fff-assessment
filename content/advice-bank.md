@@ -21,7 +21,7 @@ Where I changed a book sentence to remove an antithesis, the book may want the s
 
 &#91;Name\], this report is about one thing: what happens in the room when you present, and how to make more of it happen on purpose.
 
-Most people who present at work never chose to. They are the finance director walking the board through the numbers, the consultant pitching every few weeks, the team leader briefing on Monday morning. They do it well enough. This report is about the journey from good enough to better than most. In thirty years of coaching I have found that the journey is shorter than most people think.
+Most people who present at work never chose to. They are the finance director walking the board through the numbers, the consultant pitching every few weeks, the team leader briefing on Monday morning. They do it well enough. This report is about getting from good enough to better than most. In thirty years of coaching I have found that the distance is shorter than most people think.
 
 You answered sixty questions about how you prepare and how you present. This report turns your answers into a picture of where you are strong, where you have most to gain, and what to work on first. It takes about forty minutes to read properly. Read it with your next presentation in mind.
 
@@ -41,7 +41,7 @@ The order matters. Fit comes first because everything else depends on it. Focus 
 
 Each of the four dimensions has a score out of 100. A score of 60 or above is a capital F: a strength you can rely on, and still develop. A score below 60 is a small f: an area where small changes and practice will pay back fastest. Your three letters, one each for Fit, Focus and Flair, give your profile: \[code\], \[profile name\].
 
-Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. They get two pages of principles, hints and practical tips each.
+Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. Each gets a full page: what the score means, a note written for you, a principle to hold on to, and at least three things to practise.
 
 Three things to keep in mind.&#32;
 
@@ -242,14 +242,25 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **What your score tells you**
 
 - *60 and above.* You start with people. You find out who is in the room and you shape the presentation around them. Audiences feel that, even when they cannot name it.
-- *Below 60.* This is where you have the most to gain. You probably know your material well and prepare it with care. The next step is to spend the first part of your preparation on the audience: how they think and how they feel.
+- *Below 60.* Your opportunity is to start with people. You probably know your material well and prepare it with care. The next step is to spend the first part of your preparation on the audience: how they think and how they feel.
 
 **Why it matters in the room.** An audience decides in the first few minutes whether you understand their world. If you do, they lean in and give you the benefit of the doubt. If you do not, they listen politely and change nothing. Empathy is the cheapest preparation you can do, and it raises the value of everything else.
 
 **What to practise next**
 
-- *60 and above.* Go one level deeper. Before your next presentation, find out what the audience believes about your subject today and what you want them to believe at the end. Write down the gap. That gap is your presentation. Then write a short email as if you were one of them, to a friend, about the problem you are there to solve. If it is hard to write, you do not yet know them well enough.
-- *Below 60.* Before you prepare anything, write down five things you know about this audience. Then ask two or three of the most influential people who will be there for the three things they most want from the presentation, and for anything they do not want. Build from their answers.
+*60 and above.*
+
+1. Find out what the audience believes about your subject today and what you want them to believe at the end. Write down the gap. That gap is your presentation.
+2. List what success means to the key people in the room: targets, recognition, reputation, security, the avoidance of harm. Show each of them how your proposal moves theirs forward.
+3. If the gap between what they believe and what you need is too wide for one meeting, plan two or three. Influencing is the art of patience.
+
+*Below 60.*
+
+1. Before you prepare anything, write down five things you know about this audience. Where you cannot complete the list, you have found your research.
+2. Ask two or three of the most influential people who will be there for the three things they most want from the presentation. They will also tell you what they do not want. Build from their answers.
+3. Write a short email as if you were one of them, to a friend, about the problem you are there to solve. If it is hard to write, you do not yet know them well enough.
+
+**From Jim's notebook.** "Understand the people in the audience. Assume the very best and highest ambitions, values and principles for them." (Presentation Guru, 2017)
 
 **Go deeper.** Chapter Two. Workbook Tool 1: Audience Analysis.
 
@@ -270,12 +281,23 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Ask for feedback on one specific thing at your next presentation: your opening, your pace, or how you handle questions. Specific questions get specific answers.
-- *Below 60.* Record yourself rehearsing for five minutes and watch it back. Write down one thing that works and one thing to change. Then ask a trusted colleague to watch your next presentation and tell you the one thing they would change.
+*60 and above.*
+
+1. Ask for feedback on one specific thing at your next presentation: your opening, your pace, or how you handle questions.
+2. Before you prepare, write down what this audience may assume about you: your role, your seniority, your department. Decide how you will use the first two minutes to work with it.
+3. Keep self-deprecating humour for rooms where you are the most senior person. Anywhere else, the audience may believe you.
+
+*Below 60.*
+
+1. Record yourself rehearsing for five minutes and watch it back. Write down one thing that works and one thing to change.
+2. Ask a trusted colleague to watch your next presentation and tell you the one thing they would change. Ask a precise question and you will get a precise answer.
+3. Know your type. If you are an introvert, remember to speak after all that thinking. If you are an extrovert, remember to think before you speak.
+
+**From Jim's notebook.** "Hide behind the content and most of the interest for the audience is gone." (jim-harvey.com, 2018)
 
 **Go deeper.** Chapter Four, Section Two. Workbook Tool 11: The Feedback Request.
 
-**Read online.** [Taking it to the next level: stand-up comedy](https://www.presentation-guru.com/taking-it-to-the-next-level-stand-up-comedy-how-hard-can-it-be/), on Presentation Guru.
+**Read online.** [How to get over Impostor Syndrome when you are presenting](https://www.presentation-guru.com/how-to-get-over-impostor-syndrome-when-youre-presenting/), on Presentation Guru.
 
 ### Fit 3. Understands their subject
 
@@ -292,8 +314,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Refresh one example in a presentation you give often. Replace it with something from the last three months.
-- *Below 60.* Before you prepare, write down the three things you are least certain about in your material. Check each one. If a gap remains, say so to the audience and say how you will find out.
+*60 and above.*
+
+1. Refresh one example in a presentation you give often. Replace it with something from the last three months.
+2. Give the big idea, then come down quickly to a concrete example the audience can use. Experts lose people when they stay at either level too long.
+3. Ask who each piece of detail is for. Keep what this audience needs to act, and put the rest in a note they can read afterwards.
+
+*Below 60.*
+
+1. Before you prepare, write down the three things you are least certain about in your material. Check each one.
+2. Replace any figure or example more than a year old with something current. A stale number tells the audience you have stopped paying attention.
+3. Where a gap remains, say so, and say when you will close it: "I do not know yet. I will have the answer by Thursday."
+
+**From Jim's notebook.** "Expertise has no value to an audience that does not understand." (Presentation Guru, 2017)
 
 **Go deeper.** Chapter Two. Workbook Tool 12: The Knowledge Ladder.
 
@@ -314,8 +347,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Test your single sentence on a colleague before you prepare. Ask them to say it back. Use their words if they are better than yours.
-- *Below 60.* Before your next presentation, complete this sentence: "After this presentation, the audience will..." Keep going until it is sharp enough for someone else to judge whether you succeeded.
+*60 and above.*
+
+1. Test your single sentence on a colleague before you prepare. Ask them to say it back. Use their words if they are better than yours.
+2. Check your verb. If your objective says "share" or "outline", ask whether you mean "convince" or "persuade". Change the verb and everything changes.
+3. Use the objective as your editor. Before you add any slide or story, ask whether it moves the audience towards that sentence.
+
+*Below 60.*
+
+1. Complete this sentence before anything else: "After this presentation, the audience will..." Keep going until someone else could judge whether you succeeded.
+2. Choose your verb. Explaining, persuading and justifying each need different words, different evidence and a different close. Pick one.
+3. Decide how big a change you are asking for: "you could do this better", "you need to fix this", or "this cannot go on". Each one needs a different case.
+
+**From Jim's notebook.** "There is no such thing as "I am only presenting data". Your data does have meaning." (Presentation Guru, 2018)
 
 **Go deeper.** Chapter Three. Workbook Tool 2: Statement of Intent.
 
@@ -336,8 +380,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* For each key point, find the one piece of evidence that makes it hard to argue with. Then find the strongest objection to your case and answer it before anyone asks.
-- *Below 60.* Write down everything you could say. Cut it to the three points that matter most to this audience. Check each one against your single sentence. If it does not support it, it goes.
+*60 and above.*
+
+1. For each key point, find the one piece of evidence that makes it hard to argue with.
+2. Find the strongest objection to your case and answer it before anyone asks.
+3. Put every point through the "so what?" test. The more senior and busy the audience, the faster they will ask it.
+
+*Below 60.*
+
+1. Write down everything you could say. Cut it to the three points that matter most to this audience.
+2. Check each point against your single sentence. If it does not support it, it goes, however much work went into it.
+3. Ask what you would say if you had two minutes. That is the essence. Build out from there.
+
+**From Jim's notebook.** "If you cannot explain what you want to say in a single sentence, you do not know." (Presentation Guru, 2018)
 
 **Go deeper.** Chapter Three. Workbook Tool 3: The Central Argument, and Tool 6: Clutter Audit.
 
@@ -358,8 +413,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Give each act a headline: a full sentence that makes a claim. Read the three headlines in order. They should make your argument on their own.
-- *Below 60.* Build your next presentation in three acts. Act One: why this matters to them. Act Two: the case, in two or three points. Act Three: what happens next. Then write the first and last sixty seconds, and rehearse them until they are certain.
+*60 and above.*
+
+1. Give each act a headline: a full sentence that makes a claim. Read the three headlines in order. They should make your argument on their own.
+2. Turn your story into a question, and judge every slide by whether it helps answer it.
+3. Match the structure to the job. With bad news, people usually know it already. Spend Act One on what happens next.
+
+*Below 60.*
+
+1. Build your next presentation in three acts. Act One: why this matters to them. Act Two: the case, in two or three points. Act Three: what happens next.
+2. Write the first and last sixty seconds word for word, and rehearse them until they are certain.
+3. Build the bridge into Act Two: describe what happens if they do nothing. It gives the middle a reason to exist.
+
+**From Jim's notebook.** "The purpose of the beginning is to get people ready for the middle." (Jim Harvey)
 
 **Go deeper.** Chapter Three. Workbook Tool 4: The Three-Act Storyboard, and Tool 8: Prologue and Epilogue.
 
@@ -380,8 +446,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Test your story on two people: one who knows the subject and one who does not. Listen hardest to the second. Write down the words they use when they play it back, and use the best of them.
-- *Below 60.* Before you build any slides, run the first two minutes out loud to a trusted colleague. Ask one question: "What is the one thing I should change?" Then change it.
+*60 and above.*
+
+1. Test your story on two people: one who knows the subject and one who does not. Listen hardest to the second.
+2. Write down the words they use when they play it back, and use the best of them.
+3. Show the story to key stakeholders before the day. It works as market testing, and it turns critics into co-authors.
+
+*Below 60.*
+
+1. Before you build any slides, run the first two minutes out loud to a trusted colleague. Ask one question: "What is the one thing I should change?" Then change it.
+2. Edit your script for repetition, pretension and jargon. Then say it out loud. If you wince, rewrite it.
+3. Ask whether the most senior person in the room could repeat back, in their own words, why your proposal is worth the money. If the answer is no, test it again.
+
+**From Jim's notebook.** "An hour spent agreeing the message saves many hours of rework on slides." (Jim Harvey)
 
 **Go deeper.** Chapter Three. Workbook Tool 5: The Soundbite.
 
@@ -402,8 +479,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Take one presentation you give often and replace one slide of bullet points with a single image or a single statement. Notice how the room responds.
-- *Below 60.* Go through your next deck slide by slide. Ask of each one: does this illustrate my point, or repeat it? Cut or change every slide that repeats. Write your story before you open the slide software.
+*60 and above.*
+
+1. Replace one slide of bullet points with a single image or a single statement. Notice how the room responds.
+2. Reveal points one at a time. A slide that shows everything at once makes the audience choose between reading and listening.
+3. Use the visual for emphasis and your voice for explanation. Audiences believe their eyes over their ears.
+
+*Below 60.*
+
+1. Go through your next deck slide by slide. Ask of each one: does this illustrate my point, or repeat it? Cut or change every slide that repeats.
+2. Write your story before you open the slide software.
+3. Introduce each complex slide with the why. Explain it in as little detail as the audience needs. Summarise it and move on.
+
+**From Jim's notebook.** "If your slides are good, say as little as you can in support of the visuals." (jim-harvey.com, 2012)
 
 **Go deeper.** Chapter Four, Section One. Workbook Tool 7: Visual Aid Review.
 
@@ -424,8 +512,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Listen for your soundbite as you test the story out loud. It is usually in the words other people use when they play your story back. Place it near the end of Act Two or at the start of Act Three.
-- *Below 60.* Take your key message and write it in plain English. Read it aloud. If you would never say it in conversation, rewrite it. Then add one striking fact and say what it is equal to: "that is the same as..."
+*60 and above.*
+
+1. Listen for your soundbite as you test the story out loud. It is usually in the words other people use when they play your story back.
+2. Find the metaphor in the words the audience uses about itself, and build on it.
+3. Replace every "hopefully" with "if... then". Audiences respond to certainty.
+
+*Below 60.*
+
+1. Take your key message and write it in plain English. Read it aloud. If you would never say it in conversation, rewrite it.
+2. Hunt the abstract nouns. Swap each one for the concrete thing it stands for. If you mean a telephone, say "telephone".
+3. Add one striking fact and say what it is equal to: "that is the same as..."
+
+**From Jim's notebook.** "Abstraction is the curse of the business presentation." (Presentation Guru, 2017)
 
 **Go deeper.** Chapter Four, Section One. Workbook Tool 5: The Soundbite.
 
@@ -446,8 +545,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Find the metaphor already in the room: the image your audience uses for their own situation. Build your story around it.
-- *Below 60.* Find one real example from your own experience that shows your central point. Write it as a beginning, a middle and an end, under two minutes. Then plan one question to ask the audience.
+*60 and above.*
+
+1. Find the metaphor already in the room: the image your audience uses for their own situation. Build your story around it.
+2. Check in at each act break: did I get this right, and is there anything you would add?
+3. Never ask a question and then tell people the right answer. Use what they give you.
+
+*Below 60.*
+
+1. Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes.
+2. Open with one question: "Of all the things we will cover today, which matters most to you?" Then use the answers.
+3. Give people time to think before you ask for answers. A minute to make a note gets far better replies than calling on someone cold.
+
+**From Jim's notebook.** "Even a short presentation can feel like being force-fed porridge if the audience is not given time to breathe." (Jim Harvey)
 
 **Go deeper.** Chapter Four, Section One. Workbook Tool 4: The Three-Act Storyboard.
 
@@ -468,8 +578,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Prepare for the hardest question, the one you hope nobody asks. Prepare each answer three ways: in fifteen seconds, in two minutes and in ten. Use the shortest unless the room asks for more.
-- *Below 60.* Write down ten questions you might be asked and prepare a clear answer to each. At the start, tell the audience when you would like their questions, and take them before your close, so the last word is yours. Repeat each question before you answer it, and check that it is a question. Practise saying "I do not know, and I will find out" until it sounds confident.
+*60 and above.*
+
+1. Prepare for the hardest question, the one you hope nobody asks.
+2. Prepare each answer three ways: in fifteen seconds, in two minutes and in ten. Use the shortest unless the room asks for more.
+3. Meet a hostile question in four steps: acknowledge the concern, thank them for raising it, agree with what you can, then give your answer.
+
+*Below 60.*
+
+1. Write down ten questions you might be asked and prepare a clear answer to each.
+2. Take questions after each act and before your close, so the last word is yours.
+3. Repeat each question before you answer it, and check that it is a question. Practise saying "I do not know, and I will find out" until it sounds confident.
+
+**From Jim's notebook.** "Fluency is the love-child of practice and preparation." (Presentation Guru, 2016)
 
 **Go deeper.** Chapter Five. Workbook Tool 9: The Thirty-Minute Slot Planner.
 
@@ -490,12 +611,23 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Rehearse a shorter version. Cut your presentation to half the time and deliver it out loud. You will find out what matters, and you will be ready when the slot shrinks on the day.
-- *Below 60.* Rehearse out loud, standing up, six times before your next important presentation. Time each run. Learn the first and last minute until they are certain, and speak the acts from short notes in your own words. Memorised scripts are what make people freeze.
+*60 and above.*
+
+1. Cut your presentation to half the time and deliver it out loud. You will find out what matters, and you will be ready when the slot shrinks.
+2. Rehearse your answers as well as your talk. Ask a colleague to put your three hardest questions to you.
+3. Make rehearsal harder than the day: less time, a tougher listener, no slides. Then the real thing feels easy.
+
+*Below 60.*
+
+1. Rehearse out loud, standing up, six times before your next important presentation. Time each run.
+2. Speak from short bullet points in your own words. Memorised scripts are what make people freeze.
+3. Learn the first and last minute until they are certain. Five minutes before you start, run them once more under your breath.
+
+**From Jim's notebook.** "Write much less and rehearse much more." (jim-harvey.com, 2013)
 
 **Go deeper.** Chapter Five. Workbook Tool 8: Prologue and Epilogue, and Tool 9: The Thirty-Minute Slot Planner.
 
-**Read online.** [10 tips for starting brilliantly](https://www.presentation-guru.com/10-tips-for-starting-brilliantly/), on Presentation Guru.
+**Read online.** [5 really simple and cheap ways to improve your presentation skills](https://www.presentation-guru.com/5-really-simple-and-cheap-ways-to-improve-your-presentation-skills/), on Presentation Guru.
 
 ### Flair: Delivery 2. Uses voice with skill
 
@@ -512,8 +644,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Plan your pauses. Mark the three sentences that matter most and leave three seconds of silence after each. In each key sentence, mark the one word that carries the meaning and give it a little more weight. Notice what happens in the room.
-- *Below 60.* Read a page of a book aloud: breathe at each comma, pause twice as long at each full stop and three times as long at a new paragraph. Finish every word, above all the last consonant. Do it for five minutes a day for a week. Then record yourself rehearsing and listen back for the flat stretches.
+*60 and above.*
+
+1. Mark the three sentences that matter most and leave three seconds of silence after each.
+2. In each key sentence, underline the one word that carries the meaning and give it a little more weight.
+3. Speak to the end of the line. Keep your energy through the last word of each sentence, where the point usually sits.
+
+*Below 60.*
+
+1. Read a page of a book aloud: breathe at each comma, pause twice as long at each full stop and three times as long at a new paragraph. Five minutes a day for a week.
+2. Finish every word, above all the last consonant. Say the hard sounds properly and your speed looks after itself.
+3. Record yourself rehearsing and listen back for the flat stretches. Mark them, and rehearse those sections again.
+
+**From Jim's notebook.** "Pause for breath where there is a comma. Pause for the audience to breathe where there is a full stop." (jim-harvey.com, 2011)
 
 **Go deeper.** Chapter Four, Section Two.
 
@@ -534,8 +677,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Plan where you will stand for each act and when you will move. Use movement to mark a change of section. Give each important line to one person, as if you wrote it for them.
-- *Below 60.* Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance. Then practise eye contact in rehearsal by finishing each sentence with one person. When you look down at your notes or turn to the screen, stop speaking, and say the next line to a person.
+*60 and above.*
+
+1. Plan where you will stand for each act and when you will move. Use movement to mark a change of section.
+2. Give each important line to one person, as if you wrote it for them.
+3. When nerves narrow your range, broaden it on purpose: a bigger gesture, a fuller expression, a longer look.
+
+*Below 60.*
+
+1. Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance.
+2. Finish each sentence with one person. Give them the whole thought before you move to the next.
+3. When you look down at your notes or turn to the screen, stop speaking. Look up, then speak.
+
+**From Jim's notebook.** "Face the audience and make simple eye contact with them. That is all that matters." (Jim Harvey)
 
 **Go deeper.** Chapter Four, Section Two.
 
@@ -556,8 +710,19 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **What to practise next**
 
-- *60 and above.* Watch the audience in the first two minutes and adjust your energy to what you see. Plan one point in the presentation where you check in with them. Prepare one line for the moment something goes wrong, so you can smile, say it and move on.
-- *Below 60.* Build a short routine for the ten minutes before you present: breathing, a little movement, a moment of quiet. Use it every time. Before you start, write down the three things you want the audience to take away, and hold your attention there. Each time your mind turns to how you feel, take it as a sign to look at the audience. If something goes wrong, do not apologise. Smile, and carry on.
+*60 and above.*
+
+1. Watch the audience in the first two minutes and adjust your energy to what you see.
+2. Prepare one line for the moment something goes wrong, so you can smile, say it and move on.
+3. Keep a record of presentations that went well, and read it before the next big one. Confidence comes from technique and experience multiplied.
+
+*Below 60.*
+
+1. Build a short routine for the ten minutes before you present: breathing, a little movement, a moment of quiet. Use it every time.
+2. Write down the three things you want the audience to take away, and hold your attention there. When your mind turns to how you feel, look at the audience.
+3. If something goes wrong, do not apologise. Smile, and carry on. An audience will forgive almost anything unless you embarrass them.
+
+**From Jim's notebook.** "Most people prepare the content and forget to prepare the person." (Open-Source Charisma)
 
 **Go deeper.** Chapter Four, Section Two.
 
@@ -599,7 +764,7 @@ One page, at the end of every report.
 
 &#91;Shown when both priorities sit in Flair: Delivery.\] When you next build a presentation from scratch, StoryMachine will help you get the story straight before you rehearse it. Your report gives you five stories free at storymachine.themessagebusiness.com/fffpro.
 
-**Workshops and coaching.** If you work with a team that presents to clients, to leaders or to large audiences, The Message Business runs workshops and coaching built on Fit, Focus and Flair. Every participant starts from their own profile, and the work goes where it will make the most difference.
+**Workshops and coaching.** If you work with a team that presents to clients, to leaders or to large audiences, The Message Business runs workshops and coaching built on Fit, Focus and Flair. Every participant starts from their own profile, and the work goes where it will make the most difference. Using FFF Pro with a team? Ask about programme codes and team licences.
 
 **Get in touch.** jim.harvey@themessagebusiness.com, or www.themessagebusiness.com.
 

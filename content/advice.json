@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-31T19:43:00.881Z",
+  "builtAt": "2026-11-02T15:20:32.476Z",
   "preface": [
     {
       "title": "Your report",
@@ -10,7 +10,7 @@
         },
         {
           "type": "p",
-          "text": "Most people who present at work never chose to. They are the finance director walking the board through the numbers, the consultant pitching every few weeks, the team leader briefing on Monday morning. They do it well enough. This report is about the journey from good enough to better than most. In thirty years of coaching I have found that the journey is shorter than most people think."
+          "text": "Most people who present at work never chose to. They are the finance director walking the board through the numbers, the consultant pitching every few weeks, the team leader briefing on Monday morning. They do it well enough. This report is about getting from good enough to better than most. In thirty years of coaching I have found that the distance is shorter than most people think."
         },
         {
           "type": "p",
@@ -55,7 +55,7 @@
         },
         {
           "type": "p",
-          "text": "Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. They get two pages of principles, hints and practical tips each."
+          "text": "Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. Each gets a full page: what the score means, a note written for you, a principle to hold on to, and at least three things to practise."
         },
         {
           "type": "p",
@@ -244,12 +244,28 @@
       "measures": "How well you understand the people in the meeting before you prepare: what they know, what they believe, how they feel about your subject, and what they need from you. It covers the research you do and how far you change a presentation for each audience.",
       "score": {
         "high": "You start with people. You find out who is in the room and you shape the presentation around them. Audiences feel that, even when they cannot name it.",
-        "low": "This is where you have the most to gain. You probably know your material well and prepare it with care. The next step is to spend the first part of your preparation on the audience: how they think and how they feel."
+        "low": "Your opportunity is to start with people. You probably know your material well and prepare it with care. The next step is to spend the first part of your preparation on the audience: how they think and how they feel."
       },
       "matters": "An audience decides in the first few minutes whether you understand their world. If you do, they lean in and give you the benefit of the doubt. If you do not, they listen politely and change nothing. Empathy is the cheapest preparation you can do, and it raises the value of everything else.",
+      "practiseList": {
+        "high": [
+          "Find out what the audience believes about your subject today and what you want them to believe at the end. Write down the gap. That gap is your presentation.",
+          "List what success means to the key people in the room: targets, recognition, reputation, security, the avoidance of harm. Show each of them how your proposal moves theirs forward.",
+          "If the gap between what they believe and what you need is too wide for one meeting, plan two or three. Influencing is the art of patience."
+        ],
+        "low": [
+          "Before you prepare anything, write down five things you know about this audience. Where you cannot complete the list, you have found your research.",
+          "Ask two or three of the most influential people who will be there for the three things they most want from the presentation. They will also tell you what they do not want. Build from their answers.",
+          "Write a short email as if you were one of them, to a friend, about the problem you are there to solve. If it is hard to write, you do not yet know them well enough."
+        ]
+      },
       "practise": {
-        "high": "Go one level deeper. Before your next presentation, find out what the audience believes about your subject today and what you want them to believe at the end. Write down the gap. That gap is your presentation. Then write a short email as if you were one of them, to a friend, about the problem you are there to solve. If it is hard to write, you do not yet know them well enough.",
-        "low": "Before you prepare anything, write down five things you know about this audience. Then ask two or three of the most influential people who will be there for the three things they most want from the presentation, and for anything they do not want. Build from their answers."
+        "high": "Find out what the audience believes about your subject today and what you want them to believe at the end. Write down the gap. That gap is your presentation.",
+        "low": "Before you prepare anything, write down five things you know about this audience. Where you cannot complete the list, you have found your research."
+      },
+      "note": {
+        "text": "Understand the people in the audience. Assume the very best and highest ambitions, values and principles for them.",
+        "source": "Presentation Guru, 2017"
       },
       "deeper": "Chapter Two. Workbook Tool 1: Audience Analysis.",
       "online": {
@@ -268,14 +284,30 @@
         "low": "You have an opportunity to see yourself as the audience sees you. Most presenters have never watched themselves present. A little honest feedback will show you where your effort pays back fastest."
       },
       "matters": "The audience forms a view of you before they form a view of your argument. If you know how you come across, and what this audience may assume about you, you can work with it. Knowing your own biases about the subject also helps you answer the hard question when it comes.",
+      "practiseList": {
+        "high": [
+          "Ask for feedback on one specific thing at your next presentation: your opening, your pace, or how you handle questions.",
+          "Before you prepare, write down what this audience may assume about you: your role, your seniority, your department. Decide how you will use the first two minutes to work with it.",
+          "Keep self-deprecating humour for rooms where you are the most senior person. Anywhere else, the audience may believe you."
+        ],
+        "low": [
+          "Record yourself rehearsing for five minutes and watch it back. Write down one thing that works and one thing to change.",
+          "Ask a trusted colleague to watch your next presentation and tell you the one thing they would change. Ask a precise question and you will get a precise answer.",
+          "Know your type. If you are an introvert, remember to speak after all that thinking. If you are an extrovert, remember to think before you speak."
+        ]
+      },
       "practise": {
-        "high": "Ask for feedback on one specific thing at your next presentation: your opening, your pace, or how you handle questions. Specific questions get specific answers.",
-        "low": "Record yourself rehearsing for five minutes and watch it back. Write down one thing that works and one thing to change. Then ask a trusted colleague to watch your next presentation and tell you the one thing they would change."
+        "high": "Ask for feedback on one specific thing at your next presentation: your opening, your pace, or how you handle questions.",
+        "low": "Record yourself rehearsing for five minutes and watch it back. Write down one thing that works and one thing to change."
+      },
+      "note": {
+        "text": "Hide behind the content and most of the interest for the audience is gone.",
+        "source": "jim-harvey.com, 2018"
       },
       "deeper": "Chapter Four, Section Two. Workbook Tool 11: The Feedback Request.",
       "online": {
-        "title": "Taking it to the next level: stand-up comedy",
-        "url": "https://www.presentation-guru.com/taking-it-to-the-next-level-stand-up-comedy-how-hard-can-it-be/"
+        "title": "How to get over Impostor Syndrome when you are presenting",
+        "url": "https://www.presentation-guru.com/how-to-get-over-impostor-syndrome-when-youre-presenting/"
       }
     },
     "Understands their subject": {
@@ -289,9 +321,25 @@
         "low": "Your opportunity is to find the gaps before the audience does. A short check of your evidence before each presentation will lift your credibility quickly."
       },
       "matters": "Gaps in knowledge show up under questions. A stale figure or an old example tells the audience you have stopped paying attention. Being honest about what you do not know builds more trust than covering it up.",
+      "practiseList": {
+        "high": [
+          "Refresh one example in a presentation you give often. Replace it with something from the last three months.",
+          "Give the big idea, then come down quickly to a concrete example the audience can use. Experts lose people when they stay at either level too long.",
+          "Ask who each piece of detail is for. Keep what this audience needs to act, and put the rest in a note they can read afterwards."
+        ],
+        "low": [
+          "Before you prepare, write down the three things you are least certain about in your material. Check each one.",
+          "Replace any figure or example more than a year old with something current. A stale number tells the audience you have stopped paying attention.",
+          "Where a gap remains, say so, and say when you will close it: \"I do not know yet. I will have the answer by Thursday.\""
+        ]
+      },
       "practise": {
         "high": "Refresh one example in a presentation you give often. Replace it with something from the last three months.",
-        "low": "Before you prepare, write down the three things you are least certain about in your material. Check each one. If a gap remains, say so to the audience and say how you will find out."
+        "low": "Before you prepare, write down the three things you are least certain about in your material. Check each one."
+      },
+      "note": {
+        "text": "Expertise has no value to an audience that does not understand.",
+        "source": "Presentation Guru, 2017"
       },
       "deeper": "Chapter Two. Workbook Tool 12: The Knowledge Ladder.",
       "online": {
@@ -310,9 +358,25 @@
         "low": "This is a high-return place to start. When the objective is unclear, the presentation grows to fill the gap. Deciding the outcome first will make everything after it shorter and sharper."
       },
       "matters": "An audience can only act on what they understand. If you cannot say what you want from them, they cannot give it to you. A clear objective also tells you what to cut.",
+      "practiseList": {
+        "high": [
+          "Test your single sentence on a colleague before you prepare. Ask them to say it back. Use their words if they are better than yours.",
+          "Check your verb. If your objective says \"share\" or \"outline\", ask whether you mean \"convince\" or \"persuade\". Change the verb and everything changes.",
+          "Use the objective as your editor. Before you add any slide or story, ask whether it moves the audience towards that sentence."
+        ],
+        "low": [
+          "Complete this sentence before anything else: \"After this presentation, the audience will...\" Keep going until someone else could judge whether you succeeded.",
+          "Choose your verb. Explaining, persuading and justifying each need different words, different evidence and a different close. Pick one.",
+          "Decide how big a change you are asking for: \"you could do this better\", \"you need to fix this\", or \"this cannot go on\". Each one needs a different case."
+        ]
+      },
       "practise": {
         "high": "Test your single sentence on a colleague before you prepare. Ask them to say it back. Use their words if they are better than yours.",
-        "low": "Before your next presentation, complete this sentence: \"After this presentation, the audience will...\" Keep going until it is sharp enough for someone else to judge whether you succeeded."
+        "low": "Complete this sentence before anything else: \"After this presentation, the audience will...\" Keep going until someone else could judge whether you succeeded."
+      },
+      "note": {
+        "text": "There is no such thing as \"I am only presenting data\". Your data does have meaning.",
+        "source": "Presentation Guru, 2018"
       },
       "deeper": "Chapter Three. Workbook Tool 2: Statement of Intent.",
       "online": {
@@ -331,9 +395,25 @@
         "low": "Your opportunity is in the cut. Most presenters include too much because every piece feels important to them. Choosing fewer points will make each one land harder."
       },
       "matters": "An audience can carry three points out of a meeting, rarely more. Give them ten and they choose for themselves, and they may choose the wrong three. Evidence turns a point into an argument: one strong number or one real example is enough.",
+      "practiseList": {
+        "high": [
+          "For each key point, find the one piece of evidence that makes it hard to argue with.",
+          "Find the strongest objection to your case and answer it before anyone asks.",
+          "Put every point through the \"so what?\" test. The more senior and busy the audience, the faster they will ask it."
+        ],
+        "low": [
+          "Write down everything you could say. Cut it to the three points that matter most to this audience.",
+          "Check each point against your single sentence. If it does not support it, it goes, however much work went into it.",
+          "Ask what you would say if you had two minutes. That is the essence. Build out from there."
+        ]
+      },
       "practise": {
-        "high": "For each key point, find the one piece of evidence that makes it hard to argue with. Then find the strongest objection to your case and answer it before anyone asks.",
-        "low": "Write down everything you could say. Cut it to the three points that matter most to this audience. Check each one against your single sentence. If it does not support it, it goes."
+        "high": "For each key point, find the one piece of evidence that makes it hard to argue with.",
+        "low": "Write down everything you could say. Cut it to the three points that matter most to this audience."
+      },
+      "note": {
+        "text": "If you cannot explain what you want to say in a single sentence, you do not know.",
+        "source": "Presentation Guru, 2018"
       },
       "deeper": "Chapter Three. Workbook Tool 3: The Central Argument, and Tool 6: Clutter Audit.",
       "online": {
@@ -352,9 +432,25 @@
         "low": "This is one of the fastest places to improve. A simple three-act structure, used every time, will make your presentations easier to follow straight away."
       },
       "matters": "Audiences remember beginnings and endings best. The middle needs signposts so they know where they are. A clear structure frees the audience to think about your argument.",
+      "practiseList": {
+        "high": [
+          "Give each act a headline: a full sentence that makes a claim. Read the three headlines in order. They should make your argument on their own.",
+          "Turn your story into a question, and judge every slide by whether it helps answer it.",
+          "Match the structure to the job. With bad news, people usually know it already. Spend Act One on what happens next."
+        ],
+        "low": [
+          "Build your next presentation in three acts. Act One: why this matters to them. Act Two: the case, in two or three points. Act Three: what happens next.",
+          "Write the first and last sixty seconds word for word, and rehearse them until they are certain.",
+          "Build the bridge into Act Two: describe what happens if they do nothing. It gives the middle a reason to exist."
+        ]
+      },
       "practise": {
         "high": "Give each act a headline: a full sentence that makes a claim. Read the three headlines in order. They should make your argument on their own.",
-        "low": "Build your next presentation in three acts. Act One: why this matters to them. Act Two: the case, in two or three points. Act Three: what happens next. Then write the first and last sixty seconds, and rehearse them until they are certain."
+        "low": "Build your next presentation in three acts. Act One: why this matters to them. Act Two: the case, in two or three points. Act Three: what happens next."
+      },
+      "note": {
+        "text": "The purpose of the beginning is to get people ready for the middle.",
+        "source": "Jim Harvey"
       },
       "deeper": "Chapter Three. Workbook Tool 4: The Three-Act Storyboard, and Tool 8: Prologue and Epilogue.",
       "online": {
@@ -373,9 +469,25 @@
         "low": "You have an easy gain here. A ten-minute conversation about your draft will save hours of rebuilding and show you how the audience will hear it."
       },
       "matters": "You know what you mean. The audience only knows what you say. Testing the story out loud shows you the gap between the two. When people play your story back, the words they use are often your best headlines and soundbites.",
+      "practiseList": {
+        "high": [
+          "Test your story on two people: one who knows the subject and one who does not. Listen hardest to the second.",
+          "Write down the words they use when they play it back, and use the best of them.",
+          "Show the story to key stakeholders before the day. It works as market testing, and it turns critics into co-authors."
+        ],
+        "low": [
+          "Before you build any slides, run the first two minutes out loud to a trusted colleague. Ask one question: \"What is the one thing I should change?\" Then change it.",
+          "Edit your script for repetition, pretension and jargon. Then say it out loud. If you wince, rewrite it.",
+          "Ask whether the most senior person in the room could repeat back, in their own words, why your proposal is worth the money. If the answer is no, test it again."
+        ]
+      },
       "practise": {
-        "high": "Test your story on two people: one who knows the subject and one who does not. Listen hardest to the second. Write down the words they use when they play it back, and use the best of them.",
+        "high": "Test your story on two people: one who knows the subject and one who does not. Listen hardest to the second.",
         "low": "Before you build any slides, run the first two minutes out loud to a trusted colleague. Ask one question: \"What is the one thing I should change?\" Then change it."
+      },
+      "note": {
+        "text": "An hour spent agreeing the message saves many hours of rework on slides.",
+        "source": "Jim Harvey"
       },
       "deeper": "Chapter Three. Workbook Tool 5: The Soundbite.",
       "online": {
@@ -394,9 +506,25 @@
         "low": "Your opportunity is to make your slides work harder with less on them. A few simple changes will bring the audience's eyes back to you."
       },
       "matters": "A slide that repeats your words adds nothing, and the audience reads it faster than you speak it. A slide that shows what words cannot, a picture, a single number, a comparison, makes the point stick. Every slide that does not serve the argument weakens it.",
+      "practiseList": {
+        "high": [
+          "Replace one slide of bullet points with a single image or a single statement. Notice how the room responds.",
+          "Reveal points one at a time. A slide that shows everything at once makes the audience choose between reading and listening.",
+          "Use the visual for emphasis and your voice for explanation. Audiences believe their eyes over their ears."
+        ],
+        "low": [
+          "Go through your next deck slide by slide. Ask of each one: does this illustrate my point, or repeat it? Cut or change every slide that repeats.",
+          "Write your story before you open the slide software.",
+          "Introduce each complex slide with the why. Explain it in as little detail as the audience needs. Summarise it and move on."
+        ]
+      },
       "practise": {
-        "high": "Take one presentation you give often and replace one slide of bullet points with a single image or a single statement. Notice how the room responds.",
-        "low": "Go through your next deck slide by slide. Ask of each one: does this illustrate my point, or repeat it? Cut or change every slide that repeats. Write your story before you open the slide software."
+        "high": "Replace one slide of bullet points with a single image or a single statement. Notice how the room responds.",
+        "low": "Go through your next deck slide by slide. Ask of each one: does this illustrate my point, or repeat it? Cut or change every slide that repeats."
+      },
+      "note": {
+        "text": "If your slides are good, say as little as you can in support of the visuals.",
+        "source": "jim-harvey.com, 2012"
       },
       "deeper": "Chapter Four, Section One. Workbook Tool 7: Visual Aid Review.",
       "online": {
@@ -415,9 +543,25 @@
         "low": "This is a quick win. Your content may be sound and still sound functional. A few deliberate choices of words will make it stay with people long after the meeting."
       },
       "matters": "A message sticks when people can recall it, repeat it and feel it. Functional language passes through the audience. One sharp phrase, one fact with a frame around it, one comparison they already understand, will travel out of the room and be repeated to people who were never there.",
+      "practiseList": {
+        "high": [
+          "Listen for your soundbite as you test the story out loud. It is usually in the words other people use when they play your story back.",
+          "Find the metaphor in the words the audience uses about itself, and build on it.",
+          "Replace every \"hopefully\" with \"if... then\". Audiences respond to certainty."
+        ],
+        "low": [
+          "Take your key message and write it in plain English. Read it aloud. If you would never say it in conversation, rewrite it.",
+          "Hunt the abstract nouns. Swap each one for the concrete thing it stands for. If you mean a telephone, say \"telephone\".",
+          "Add one striking fact and say what it is equal to: \"that is the same as...\""
+        ]
+      },
       "practise": {
-        "high": "Listen for your soundbite as you test the story out loud. It is usually in the words other people use when they play your story back. Place it near the end of Act Two or at the start of Act Three.",
-        "low": "Take your key message and write it in plain English. Read it aloud. If you would never say it in conversation, rewrite it. Then add one striking fact and say what it is equal to: \"that is the same as...\""
+        "high": "Listen for your soundbite as you test the story out loud. It is usually in the words other people use when they play your story back.",
+        "low": "Take your key message and write it in plain English. Read it aloud. If you would never say it in conversation, rewrite it."
+      },
+      "note": {
+        "text": "Abstraction is the curse of the business presentation.",
+        "source": "Presentation Guru, 2017"
       },
       "deeper": "Chapter Four, Section One. Workbook Tool 5: The Soundbite.",
       "online": {
@@ -436,9 +580,25 @@
         "low": "Your opportunity is human interest. One real story, told well, will do more for your message than any amount of detail."
       },
       "matters": "People remember stories. A business story is simply an account of something real that happened, with a beginning, a middle and an end. It makes an abstract argument concrete. A moment of participation, even a show of hands, turns listeners into people who are involved.",
+      "practiseList": {
+        "high": [
+          "Find the metaphor already in the room: the image your audience uses for their own situation. Build your story around it.",
+          "Check in at each act break: did I get this right, and is there anything you would add?",
+          "Never ask a question and then tell people the right answer. Use what they give you."
+        ],
+        "low": [
+          "Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes.",
+          "Open with one question: \"Of all the things we will cover today, which matters most to you?\" Then use the answers.",
+          "Give people time to think before you ask for answers. A minute to make a note gets far better replies than calling on someone cold."
+        ]
+      },
       "practise": {
         "high": "Find the metaphor already in the room: the image your audience uses for their own situation. Build your story around it.",
-        "low": "Find one real example from your own experience that shows your central point. Write it as a beginning, a middle and an end, under two minutes. Then plan one question to ask the audience."
+        "low": "Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes."
+      },
+      "note": {
+        "text": "Even a short presentation can feel like being force-fed porridge if the audience is not given time to breathe.",
+        "source": "Jim Harvey"
       },
       "deeper": "Chapter Four, Section One. Workbook Tool 4: The Three-Act Storyboard.",
       "online": {
@@ -457,9 +617,25 @@
         "low": "This is an opportunity to turn the riskiest part of a presentation into one of its strongest. Most of the work happens before you stand up."
       },
       "matters": "Questions are where the audience tests whether you mean it. A clear, calm answer, including \"I do not know, and I will find out\", builds more trust than the presentation itself. A session that one person takes over leaves everyone else unheard.",
+      "practiseList": {
+        "high": [
+          "Prepare for the hardest question, the one you hope nobody asks.",
+          "Prepare each answer three ways: in fifteen seconds, in two minutes and in ten. Use the shortest unless the room asks for more.",
+          "Meet a hostile question in four steps: acknowledge the concern, thank them for raising it, agree with what you can, then give your answer."
+        ],
+        "low": [
+          "Write down ten questions you might be asked and prepare a clear answer to each.",
+          "Take questions after each act and before your close, so the last word is yours.",
+          "Repeat each question before you answer it, and check that it is a question. Practise saying \"I do not know, and I will find out\" until it sounds confident."
+        ]
+      },
       "practise": {
-        "high": "Prepare for the hardest question, the one you hope nobody asks. Prepare each answer three ways: in fifteen seconds, in two minutes and in ten. Use the shortest unless the room asks for more.",
-        "low": "Write down ten questions you might be asked and prepare a clear answer to each. At the start, tell the audience when you would like their questions, and take them before your close, so the last word is yours. Repeat each question before you answer it, and check that it is a question. Practise saying \"I do not know, and I will find out\" until it sounds confident."
+        "high": "Prepare for the hardest question, the one you hope nobody asks.",
+        "low": "Write down ten questions you might be asked and prepare a clear answer to each."
+      },
+      "note": {
+        "text": "Fluency is the love-child of practice and preparation.",
+        "source": "Presentation Guru, 2016"
       },
       "deeper": "Chapter Five. Workbook Tool 9: The Thirty-Minute Slot Planner.",
       "online": {
@@ -478,14 +654,30 @@
         "low": "This is one of the most reliable gains in the report. Rehearsal out loud turns a good presentation on paper into a confident one in the room."
       },
       "matters": "Reading notes and speaking are different skills, and the audience only sees one of them. A presenter who has rehearsed can watch the audience. Running over time tells the room you did not prepare; finishing on time tells them you respect theirs.",
+      "practiseList": {
+        "high": [
+          "Cut your presentation to half the time and deliver it out loud. You will find out what matters, and you will be ready when the slot shrinks.",
+          "Rehearse your answers as well as your talk. Ask a colleague to put your three hardest questions to you.",
+          "Make rehearsal harder than the day: less time, a tougher listener, no slides. Then the real thing feels easy."
+        ],
+        "low": [
+          "Rehearse out loud, standing up, six times before your next important presentation. Time each run.",
+          "Speak from short bullet points in your own words. Memorised scripts are what make people freeze.",
+          "Learn the first and last minute until they are certain. Five minutes before you start, run them once more under your breath."
+        ]
+      },
       "practise": {
-        "high": "Rehearse a shorter version. Cut your presentation to half the time and deliver it out loud. You will find out what matters, and you will be ready when the slot shrinks on the day.",
-        "low": "Rehearse out loud, standing up, six times before your next important presentation. Time each run. Learn the first and last minute until they are certain, and speak the acts from short notes in your own words. Memorised scripts are what make people freeze."
+        "high": "Cut your presentation to half the time and deliver it out loud. You will find out what matters, and you will be ready when the slot shrinks.",
+        "low": "Rehearse out loud, standing up, six times before your next important presentation. Time each run."
+      },
+      "note": {
+        "text": "Write much less and rehearse much more.",
+        "source": "jim-harvey.com, 2013"
       },
       "deeper": "Chapter Five. Workbook Tool 8: Prologue and Epilogue, and Tool 9: The Thirty-Minute Slot Planner.",
       "online": {
-        "title": "10 tips for starting brilliantly",
-        "url": "https://www.presentation-guru.com/10-tips-for-starting-brilliantly/"
+        "title": "5 really simple and cheap ways to improve your presentation skills",
+        "url": "https://www.presentation-guru.com/5-really-simple-and-cheap-ways-to-improve-your-presentation-skills/"
       }
     },
     "Uses voice with skill": {
@@ -499,9 +691,25 @@
         "low": "Your opportunity is to bring your conversational voice into the room. In ordinary conversation you already use your full range. Under pressure, most people narrow it. A little practice brings it back."
       },
       "matters": "The voice tells the audience which words matter. A pause after your key point gives the idea time to land, and it feels far longer to you than to them. A steady, even voice asks the audience to do the work of finding your point. Clear articulation matters more than speed, above all for people listening in a second language. Finish your consonants and the pace looks after itself.",
+      "practiseList": {
+        "high": [
+          "Mark the three sentences that matter most and leave three seconds of silence after each.",
+          "In each key sentence, underline the one word that carries the meaning and give it a little more weight.",
+          "Speak to the end of the line. Keep your energy through the last word of each sentence, where the point usually sits."
+        ],
+        "low": [
+          "Read a page of a book aloud: breathe at each comma, pause twice as long at each full stop and three times as long at a new paragraph. Five minutes a day for a week.",
+          "Finish every word, above all the last consonant. Say the hard sounds properly and your speed looks after itself.",
+          "Record yourself rehearsing and listen back for the flat stretches. Mark them, and rehearse those sections again."
+        ]
+      },
       "practise": {
-        "high": "Plan your pauses. Mark the three sentences that matter most and leave three seconds of silence after each. In each key sentence, mark the one word that carries the meaning and give it a little more weight. Notice what happens in the room.",
-        "low": "Read a page of a book aloud: breathe at each comma, pause twice as long at each full stop and three times as long at a new paragraph. Finish every word, above all the last consonant. Do it for five minutes a day for a week. Then record yourself rehearsing and listen back for the flat stretches."
+        "high": "Mark the three sentences that matter most and leave three seconds of silence after each.",
+        "low": "Read a page of a book aloud: breathe at each comma, pause twice as long at each full stop and three times as long at a new paragraph. Five minutes a day for a week."
+      },
+      "note": {
+        "text": "Pause for breath where there is a comma. Pause for the audience to breathe where there is a full stop.",
+        "source": "jim-harvey.com, 2011"
       },
       "deeper": "Chapter Four, Section Two.",
       "online": {
@@ -520,9 +728,25 @@
         "low": "This is an area where small, specific changes make a visible difference. Most nervous habits are invisible to the person doing them and easy to fix once you know they are there."
       },
       "matters": "An audience watches before it listens. When your body and your words say the same thing, the audience trusts both. Real eye contact, a full thought with one person before moving to the next, makes each person feel spoken to.",
+      "practiseList": {
+        "high": [
+          "Plan where you will stand for each act and when you will move. Use movement to mark a change of section.",
+          "Give each important line to one person, as if you wrote it for them.",
+          "When nerves narrow your range, broaden it on purpose: a bigger gesture, a fuller expression, a longer look."
+        ],
+        "low": [
+          "Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance.",
+          "Finish each sentence with one person. Give them the whole thought before you move to the next.",
+          "When you look down at your notes or turn to the screen, stop speaking. Look up, then speak."
+        ]
+      },
       "practise": {
-        "high": "Plan where you will stand for each act and when you will move. Use movement to mark a change of section. Give each important line to one person, as if you wrote it for them.",
-        "low": "Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance. Then practise eye contact in rehearsal by finishing each sentence with one person. When you look down at your notes or turn to the screen, stop speaking, and say the next line to a person."
+        "high": "Plan where you will stand for each act and when you will move. Use movement to mark a change of section.",
+        "low": "Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance."
+      },
+      "note": {
+        "text": "Face the audience and make simple eye contact with them. That is all that matters.",
+        "source": "Jim Harvey"
       },
       "deeper": "Chapter Four, Section Two.",
       "online": {
@@ -541,9 +765,25 @@
         "low": "Your opportunity is to move your attention from yourself to the audience. Nerves are normal, and almost everyone who presents well has learned to use them."
       },
       "matters": "Nerves bring energy, and the energy is useful. The trouble starts when your attention turns inward: nervousness is almost always a symptom of self-focus. The presenter wondering whether they are doing it right is nervous. The presenter wondering whether the audience understands is busy. An audience relaxes when the presenter does, and engages when the presenter is clearly watching them.",
+      "practiseList": {
+        "high": [
+          "Watch the audience in the first two minutes and adjust your energy to what you see.",
+          "Prepare one line for the moment something goes wrong, so you can smile, say it and move on.",
+          "Keep a record of presentations that went well, and read it before the next big one. Confidence comes from technique and experience multiplied."
+        ],
+        "low": [
+          "Build a short routine for the ten minutes before you present: breathing, a little movement, a moment of quiet. Use it every time.",
+          "Write down the three things you want the audience to take away, and hold your attention there. When your mind turns to how you feel, look at the audience.",
+          "If something goes wrong, do not apologise. Smile, and carry on. An audience will forgive almost anything unless you embarrass them."
+        ]
+      },
       "practise": {
-        "high": "Watch the audience in the first two minutes and adjust your energy to what you see. Plan one point in the presentation where you check in with them. Prepare one line for the moment something goes wrong, so you can smile, say it and move on.",
-        "low": "Build a short routine for the ten minutes before you present: breathing, a little movement, a moment of quiet. Use it every time. Before you start, write down the three things you want the audience to take away, and hold your attention there. Each time your mind turns to how you feel, take it as a sign to look at the audience. If something goes wrong, do not apologise. Smile, and carry on."
+        "high": "Watch the audience in the first two minutes and adjust your energy to what you see.",
+        "low": "Build a short routine for the ten minutes before you present: breathing, a little movement, a moment of quiet. Use it every time."
+      },
+      "note": {
+        "text": "Most people prepare the content and forget to prepare the person.",
+        "source": "Open-Source Charisma"
       },
       "deeper": "Chapter Four, Section Two.",
       "online": {
@@ -620,7 +860,7 @@
     {
       "type": "labelled",
       "label": "Workshops and coaching",
-      "text": "If you work with a team that presents to clients, to leaders or to large audiences, The Message Business runs workshops and coaching built on Fit, Focus and Flair. Every participant starts from their own profile, and the work goes where it will make the most difference."
+      "text": "If you work with a team that presents to clients, to leaders or to large audiences, The Message Business runs workshops and coaching built on Fit, Focus and Flair. Every participant starts from their own profile, and the work goes where it will make the most difference. Using FFF Pro with a team? Ask about programme codes and team licences."
     },
     {
       "type": "labelled",
