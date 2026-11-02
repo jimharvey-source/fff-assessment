@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FFF Cookies</title>
+<script src="/consent.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@700&display=swap" rel="stylesheet">
+<style>
+:root{--red:#E8231A;--navy:#1A1A2E;--black:#111;--grey:#666;--border:#DDD;--off:#F7F7F7}
+*{box-sizing:border-box}
+body{margin:0;font-family:'Barlow',sans-serif;color:var(--black);background:#fff;line-height:1.6}
+header{background:var(--navy);border-top:5px solid var(--red);padding:18px 24px}
+header a{color:#fff;text-decoration:none;font-family:'Barlow Condensed',sans-serif;font-size:20px;letter-spacing:1px}
+main{max-width:680px;margin:0 auto;padding:48px 24px 64px}
+.eyebrow{color:var(--red);font-weight:600;font-size:12px;letter-spacing:2px;text-transform:uppercase}
+h1{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-size:40px;line-height:1.05;color:var(--navy);margin:8px 0 12px}
+h2{font-size:19px;color:var(--navy);margin:36px 0 8px}
+.rule{width:56px;height:3px;background:var(--red);margin:0 0 24px}
+.updated{color:var(--grey);font-size:14px}
+table{width:100%;border-collapse:collapse;font-size:15px;margin:12px 0}
+th,td{text-align:left;vertical-align:top;padding:8px 10px;border-bottom:1px solid var(--border)}
+th{background:var(--off);color:var(--navy)}
+a{color:var(--navy)}
+footer{color:var(--grey);font-size:13px;text-align:center;padding:24px}
+@media (max-width:560px){table,thead,tbody,tr,th,td{display:block}th{display:none}td{border:0;padding:2px 0}tr{border-bottom:1px solid var(--border);padding:8px 0}}
+</style>
+</head>
+<body>
+<header><a href="/">FFF PRESENTATION SKILLS ASSESSMENT</a></header>
+<main>
+<div class="eyebrow">Legal</div>
+<h1>Cookies</h1>
+<div class="rule"></div>
+<p>What this site puts on your device, and how to say no.</p>
+<p class="updated">Last updated 2 November 2026.</p>
+<h2>The short version</h2>
+<p>We use one analytics tool, Google Analytics, to see how people move through the assessment and where they stop. There is no advertising and no retargeting. Analytics runs only if you accept it. If you decline, the site works the same and we learn less.</p>
+<h2>What gets set</h2>
+<table>
+<thead><tr><th>Name</th><th>Set by</th><th>What it does</th><th>How long</th></tr></thead>
+<tbody>
+<tr><td>fff_cookie_choice</td><td>This site</td><td>Remembers whether you accepted or declined, so the banner stops asking</td><td>Twelve months</td></tr>
+<tr><td>_ga, _ga_&lt;id&gt;</td><td>Google Analytics</td><td>Tells one visit apart from another. Only set if you accept</td><td>Up to two years</td></tr>
+<tr><td>__stripe_mid, __stripe_sid</td><td>Stripe</td><td>Set on the payment page only, to spot fraud. Needed to take a payment</td><td>Up to one year</td></tr>
+</tbody>
+</table>
+<p>Your answers stay in your browser while you take the assessment. They leave your device only if you ask for FFF Pro.</p>
+<h2>Changing your mind</h2>
+<p>This button clears your choice and asks again.</p>
+<p><button type="button" onclick="window.fffResetCookieChoice()" style="background:#E8231A;color:#fff;border:0;padding:12px 22px;font:600 15px Barlow,sans-serif;cursor:pointer">Change my cookie choice</button></p>
+<p>What we do with your information is in the <a href="/privacy">privacy policy</a>.</p>
+</main>
+<footer>Allcow Trading Company LTD, trading as The Message Business &middot; <a href="/terms">Terms of sale</a> &middot; <a href="/privacy">Privacy</a> &middot; <a href="/cookies">Cookies</a></footer>
+</body>
+</html>
