@@ -135,7 +135,7 @@ for (const s of sections(find('Subscale pages')[0].body, 3)) {
   }
   for (const f of ['measures', 'matters', 'deeper']) if (!entry[f]) errors.push(`${name}: no ${f}`);
   for (const f of ['score', 'practise']) if (!entry[f]?.high || !entry[f]?.low) errors.push(`${name}: ${f} missing a band`);
-  for (const band of ['high', 'low']) if ((entry.practiseList?.[band] || []).length < 3) errors.push(`${name}: fewer than three ways to practise (${band})`);
+  for (const band of ['high', 'low']) if ((entry.practiseList?.[band] || []).length < 5) errors.push(`${name}: fewer than five ways to practise (${band})`);
   if (!entry.note) errors.push(`${name}: no notebook line`);
   subscales[name] = entry;
 }
