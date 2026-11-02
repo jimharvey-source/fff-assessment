@@ -1,7 +1,14 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+  "functions": {
+    "api/create-run.mjs":      { "maxDuration": 10 },
+    "api/create-checkout.mjs": { "maxDuration": 10 },
+    "api/stripe-webhook.mjs":  { "maxDuration": 15 },
+    "api/redeem-cohort.mjs":   { "maxDuration": 10 },
+    "api/generate-report.mjs": { "maxDuration": 60, "memory": 1024, "includeFiles": "{fonts/**,content/advice.json,lib/items.json}" }
+  },
+  "rewrites": [
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }
