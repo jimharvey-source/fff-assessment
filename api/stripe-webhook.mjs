@@ -83,6 +83,11 @@ export default async function handler(req, res) {
       case 'checkout.session.completed':
       case 'checkout.session.async_payment_succeeded': {
         const session = event.data.object;
+
+        // One Stripe account serves several apps, and every endpoint hears
+        // every checkout. Only FFF Pro sessions are ours; accept the rest.
+        if (session.metadata?.product !== 'fff-pro') break;
+
         const token = session.metadata?.run_token || session.client_reference_id || null;
 
         if (!token) {
