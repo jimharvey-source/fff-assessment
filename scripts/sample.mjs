@@ -15,6 +15,6 @@ for (const code of ['FFF','FFf','FfF','Fff','fFF','fFf','ffF','fff']) {
   const s = scoreAnswers(answers);
   const personal = await writePersonal(s, 'Alex', { apiKey: process.env.ANTHROPIC_API_KEY });
   const pdf = await renderReport({ name: 'Alex Morgan', scoring: s, content, personal, storyUrl: 'storymachine.themessagebusiness.com/fffpro', date: '16 November 2026' });
-  writeFileSync(`samples/fff-pro-${code}.pdf`, pdf);
+  writeFileSync(`samples/sample-${s.profileName.replace(/ /g, "-")}.pdf`, pdf);
   console.log(code, s.key, s.profileName, s.priorities.join(' | '), pdf.length, 'bytes');
 }

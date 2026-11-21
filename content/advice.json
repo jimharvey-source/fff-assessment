@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-02T18:10:04.430Z",
+  "builtAt": "2026-11-21T10:20:14.862Z",
   "preface": [
     {
       "title": "Your report",
@@ -38,7 +38,7 @@
         {
           "type": "labelled",
           "label": "Flair",
-          "text": "It sticks in their minds. Flair has two parts. The message: language, stories and examples that cannot be forgotten. The delivery: voice, body and presence that carry the message to every person listening."
+          "text": "It sticks in their minds. Flair is the ability to do a thing that many people find difficult in a way that seems natural. Flair has two parts. The message: language, stories and examples that cannot be forgotten. The delivery: voice, body and presence that carry the message to every person listening."
         },
         {
           "type": "p",
@@ -55,7 +55,7 @@
         },
         {
           "type": "p",
-          "text": "Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. Each gets a full page: what the score means, a note written for you, a principle to hold on to, and five things to practise."
+          "text": "Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. Each gets its own page, or two where it needs them: what the score means, a note written for you, a principle to hold on to, and five things to practise."
         },
         {
           "type": "p",
@@ -252,7 +252,7 @@
           "Find out what the audience believes about your subject today and what you want them to believe at the end. Write down the gap. That gap is your presentation.",
           "List what success means to the key people in the room: targets, recognition, reputation, security, the avoidance of harm. Show each of them how your proposal moves theirs forward.",
           "If the gap between what they believe and what you need is too wide for one meeting, plan two or three. Influencing is the art of patience.",
-          "Fit your approach to the audience in front of you on the day. If the mood in the room has changed, change your opening.",
+          "Fit the occasion as well as the audience. A board meeting, a conference and a Monday briefing each need a different length, tone and opening. If the mood in the room has changed on the day, change your opening.",
           "Work out what the most sceptical person in the room has heard before. If they have sat through eleven \"all hands\" meetings, open with something new."
         ],
         "low": [
@@ -355,8 +355,8 @@
       },
       "deeper": "Chapter Two. Workbook Tool 12: The Knowledge Ladder.",
       "online": {
-        "title": "The best way to explain complex concepts, Part 2",
-        "url": "https://www.presentation-guru.com/the-best-way-to-explain-complex-concepts-part-2/"
+        "title": "How the ladder of abstraction can help the public speaker",
+        "url": "https://www.presentation-guru.com/the-ladder-of-abstraction-for-speakers/"
       }
     },
     "Defines the presentation objective": {
@@ -394,7 +394,7 @@
         "text": "There is no such thing as \"I am only presenting data\". Your data does have meaning.",
         "source": "Presentation Guru, 2018"
       },
-      "deeper": "Chapter Three. Workbook Tool 2: Statement of Intent.",
+      "deeper": "Chapter Three, including \"Find your one sentence\". Workbook Tool 2: Statement of Intent.",
       "online": {
         "title": "The one thing that will make you a better communicator",
         "url": "https://www.presentation-guru.com/whats-the-one-thing-that-will-make-you-a-better-communicator/"
@@ -465,7 +465,7 @@
           "Write the first and last sixty seconds word for word, and rehearse them until they are certain.",
           "Build the bridge into Act Two: describe what happens if they do nothing. It gives the middle a reason to exist.",
           "Open with the audience's situation. Your own background can wait until Act Two, if it is needed at all.",
-          "Signpost the middle. Tell the audience how many points there are, and say when you move from one to the next."
+          "After your opening, tell the audience in one or two sentences where you are taking them. Then say how many points there are, and when you move from one to the next."
         ]
       },
       "practise": {
@@ -476,10 +476,10 @@
         "text": "The purpose of the beginning is to get people ready for the middle.",
         "source": "Jim Harvey"
       },
-      "deeper": "Chapter Three. Workbook Tool 4: The Three-Act Storyboard, and Tool 8: Prologue and Epilogue.",
+      "deeper": "Chapter Three, including \"Signpost the route\". Workbook Tool 4: The Three-Act Storyboard, and Tool 8: Prologue and Epilogue.",
       "online": {
-        "title": "Even the shortest story needs structure",
-        "url": "https://www.presentation-guru.com/even-the-shortest-story-needs-structure/"
+        "title": "A good presentation needs structure",
+        "url": "https://www.presentation-guru.com/a-good-presentation-needs-structure/"
       }
     },
     "Tests and refines the draft": {
@@ -560,8 +560,8 @@
       },
       "deeper": "Chapter Four, Section One. Workbook Tool 7: Visual Aid Review.",
       "online": {
-        "title": "The simple rules that help us design better visual aids, Part Two",
-        "url": "https://www.presentation-guru.com/what-are-the-simple-rules-that-help-us-design-better-visual-aids-part-two/"
+        "title": "There are only 6 types of slides you should be using",
+        "url": "https://www.presentation-guru.com/there-are-only-6-types-of-slides-you-should-be-using-and-this-isnt-one-of-them/"
       }
     },
     "Uses interesting and powerful language": {
@@ -625,7 +625,7 @@
           "Collect one real example from the audience during the session and use it in your close."
         ],
         "low": [
-          "Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes.",
+          "Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes. Give it a turning point, where things go wrong before they go right.",
           "Open with one question: \"Of all the things we will cover today, which matters most to you?\" Then use the answers.",
           "Give people time to think before you ask for answers. A minute to make a note gets far better replies than calling on someone cold.",
           "Start with questions people can answer easily: a show of hands, a quick vote, a one-word reply. Move to open questions once the room is warm.",
@@ -634,7 +634,7 @@
       },
       "practise": {
         "high": "Find the metaphor already in the room: the image your audience uses for their own situation. Build your story around it.",
-        "low": "Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes."
+        "low": "Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes. Give it a turning point, where things go wrong before they go right."
       },
       "note": {
         "text": "Even a short presentation can feel like being force-fed porridge if the audience is not given time to breathe.",
@@ -642,8 +642,8 @@
       },
       "deeper": "Chapter Four, Section One. Workbook Tool 4: The Three-Act Storyboard.",
       "online": {
-        "title": "Make your sales presentations land and stick, using ancient stories",
-        "url": "https://www.presentation-guru.com/make-your-sales-presentations-land-and-stick-using-ancient-stories-to-sell-modern-technology/"
+        "title": "Even the shortest story needs structure",
+        "url": "https://www.presentation-guru.com/even-the-shortest-story-needs-structure/"
       }
     },
     "Handles questions effectively": {
@@ -660,28 +660,28 @@
       "practiseList": {
         "high": [
           "Prepare for the hardest question, the one you hope nobody asks.",
-          "Prepare each answer three ways: in fifteen seconds, in two minutes and in ten. Use the shortest unless the room asks for more.",
+          "Prepare a fifteen-second, a two-minute and a five-minute answer to the question you most expect. Use the shortest unless the room asks for more.",
           "Meet a hostile question in four steps: acknowledge the concern, thank them for raising it, agree with what you can, then give your answer.",
-          "On a panel, keep each answer to three sentences at most. If the audience wants more, they will ask.",
-          "Prepare for the five questions every audience carries: how is this useful to me, what do I need to do, what is the risk, where is the evidence, and what will it cost?"
+          "Keep one question in your pocket to ask yourself if the room is slow to start.",
+          "Build your close from what the audience asked, and end the session yourself."
         ],
         "low": [
-          "Write down ten questions you might be asked and prepare a clear answer to each.",
-          "Take questions after each act and before your close, so the last word is yours.",
-          "Repeat each question before you answer it, and check that it is a question. Practise saying \"I do not know, and I will find out\" until it sounds confident.",
-          "Wait three seconds after the question ends before you answer. It shows you listened, and it gives you time to think.",
-          "Predict questions from the material you cut. The audience will often ask about exactly what you left out."
+          "Before your next presentation, list the subjects your audience could raise and the three questions you would least like to hear.",
+          "Tell the audience at the start when you will take questions, and take them before your close, so the last word is yours.",
+          "Ask \"What questions do you have for me?\" in place of \"Any questions?\"",
+          "Repeat each question before you answer it, then wait three seconds. It shows you listened, and it gives you time to think.",
+          "When you do not know an answer, say so, name a date, and follow up by then."
         ]
       },
       "practise": {
         "high": "Prepare for the hardest question, the one you hope nobody asks.",
-        "low": "Write down ten questions you might be asked and prepare a clear answer to each."
+        "low": "Before your next presentation, list the subjects your audience could raise and the three questions you would least like to hear."
       },
       "note": {
-        "text": "Fluency is the love-child of practice and preparation.",
-        "source": "Presentation Guru, 2016"
+        "text": "Most unexpected questions can be expected. Prepare for them the way you prepare for the presentation.",
+        "source": "Fit, Focus and Flair, Chapter Five"
       },
-      "deeper": "Chapter Five. Workbook Tool 9: The Thirty-Minute Slot Planner.",
+      "deeper": "Chapter Five, Section Two: The Questions. Workbook Tool 13: The Question Planner.",
       "online": {
         "title": "How to prepare for the unexpected questions",
         "url": "https://www.presentation-guru.com/how-to-prepare-for-the-unexpected-question/"
@@ -722,10 +722,10 @@
         "text": "Write much less and rehearse much more.",
         "source": "jim-harvey.com, 2013"
       },
-      "deeper": "Chapter Five. Workbook Tool 8: Prologue and Epilogue, and Tool 9: The Thirty-Minute Slot Planner.",
+      "deeper": "Chapter Five, Section One, and \"Plan the short version\" in Chapter Three. Workbook Tool 8: Prologue and Epilogue, and Tool 9: The Thirty-Minute Slot Planner.",
       "online": {
-        "title": "5 really simple and cheap ways to improve your presentation skills",
-        "url": "https://www.presentation-guru.com/5-really-simple-and-cheap-ways-to-improve-your-presentation-skills/"
+        "title": "The 4 most important steps when preparing your speech",
+        "url": "https://www.presentation-guru.com/the-4-most-important-steps-when-preparing-your-speech/"
       }
     },
     "Uses voice with skill": {
@@ -750,7 +750,7 @@
         "low": [
           "Read a page of a book aloud: breathe at each comma, pause twice as long at each full stop and three times as long at a new paragraph. Five minutes a day for a week.",
           "Finish every word, above all the last consonant. Say the hard sounds properly and your speed looks after itself.",
-          "Record yourself rehearsing and listen back for the flat stretches. Mark them, and rehearse those sections again.",
+          "Record yourself rehearsing and listen back for the flat stretches and the filler words, such as \"so\" and \"um\". Rehearse those sections again, and replace each filler word with a pause.",
           "Speak with your own voice: the one you use with a friend across the table, with the volume turned up for the room.",
           "Find your energy setting. Picture a dial from nought to ten. Nervous speakers sit at about three. Aim for six or seven."
         ]
@@ -782,7 +782,7 @@
       "matters": "An audience watches before it listens. When your body and your words say the same thing, the audience trusts both. Real eye contact, a full thought with one person before moving to the next, makes each person feel spoken to.",
       "practiseList": {
         "high": [
-          "Plan where you will stand for each act and when you will move. Use movement to mark a change of section.",
+          "Plan where you will stand for each act and when you will move. Use movement to mark a change of section. Step towards the audience to raise the energy, and stand still for the line that matters most.",
           "Give each important line to one person, as if you wrote it for them.",
           "When nerves narrow your range, broaden it on purpose: a bigger gesture, a fuller expression, a longer look.",
           "Use your face. Try saying \"no\" with your eyebrows down and then up, and notice how the meaning changes.",
@@ -792,12 +792,12 @@
           "Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance.",
           "Finish each sentence with one person. Give them the whole thought before you move to the next.",
           "When you look down at your notes or turn to the screen, stop speaking. Look up, then speak.",
-          "Plant your feet for your opening line. Stand still while you say it, then move.",
+          "Plant your feet for your opening line. Stand still while you say it, then move. Between gestures, let your hands rest at your sides.",
           "Watch a recording of yourself with the sound off. Find the one habit that distracts most, and fix that first."
         ]
       },
       "practise": {
-        "high": "Plan where you will stand for each act and when you will move. Use movement to mark a change of section.",
+        "high": "Plan where you will stand for each act and when you will move. Use movement to mark a change of section. Step towards the audience to raise the energy, and stand still for the line that matters most.",
         "low": "Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance."
       },
       "note": {
@@ -833,7 +833,7 @@
           "Build a short routine for the ten minutes before you present: breathing, a little movement, a moment of quiet. Use it every time.",
           "Write down the three things you want the audience to take away, and hold your attention there. When your mind turns to how you feel, look at the audience.",
           "If something goes wrong, do not apologise. Smile, and carry on. An audience will forgive almost anything unless you embarrass them.",
-          "Decide who you are talking to in your head. Picture one friendly person in the room, and talk to them.",
+          "Map your nerves on two scales: how many people are listening, and how well you know them. Find the kind of room that worries you most, and practise there on purpose, starting small.",
           "If you feel underprepared, you probably are. Book one extra rehearsal into your diary before the day."
         ]
       },
@@ -906,7 +906,7 @@
     {
       "type": "labelled",
       "label": "The book",
-      "text": "Fit, Focus and Flair goes deeper into every idea in this report. Each subscale page names the chapter to read and the workbook tool to use."
+      "text": "Fit, Focus and Flair, by Jim Harvey and John Zimmer, goes deeper into every idea in this report. Each subscale page names the chapter to read and the workbook tool to use."
     },
     {
       "type": "labelled",
@@ -926,6 +926,11 @@
       "type": "labelled",
       "label": "Get in touch",
       "text": "jim.harvey@themessagebusiness.com, or www.themessagebusiness.com."
+    },
+    {
+      "type": "labelled",
+      "label": "Thanks",
+      "text": "Some practice steps in this report draw on John Zimmer's Manner of Speaking, used with his permission."
     },
     {
       "type": "p",

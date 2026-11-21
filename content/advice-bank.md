@@ -33,7 +33,7 @@ Every presentation that works does three things.
 
 **Focus.** It makes one argument, clearly. You have decided what the point is, cut what does not serve it, and given the audience a structure they can follow and remember.
 
-**Flair.** It sticks in their minds. Flair has two parts. The message: language, stories and examples that cannot be forgotten. The delivery: voice, body and presence that carry the message to every person listening.
+**Flair.** It sticks in their minds. Flair is the ability to do a thing that many people find difficult in a way that seems natural. Flair has two parts. The message: language, stories and examples that cannot be forgotten. The delivery: voice, body and presence that carry the message to every person listening.
 
 The order matters. Fit comes first because everything else depends on it. Focus gives Flair something solid to stand on. Dynamic delivery of a disorganised message leaves the audience entertained but unsure what they have heard.
 
@@ -41,7 +41,7 @@ The order matters. Fit comes first because everything else depends on it. Focus 
 
 Each of the four dimensions has a score out of 100. A score of 60 or above is a capital F: a strength you can rely on, and still develop. A score below 60 is a small f: an area where small changes and practice will pay back fastest. Your three letters, one each for Fit, Focus and Flair, give your profile: \[code\], \[profile name\].
 
-Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. Each gets a full page: what the score means, a note written for you, a principle to hold on to, and five things to practise.
+Under the four dimensions sit fifteen subscales. Each is a specific habit, such as defining the objective or using your voice with skill. The report ranks all fifteen, from the one with the most to gain to your strongest suit. The two at the top of that list are your development priorities. Each gets its own page, or two where it needs them: what the score means, a note written for you, a principle to hold on to, and five things to practise.
 
 Three things to keep in mind.&#32;
 
@@ -253,7 +253,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 1. Find out what the audience believes about your subject today and what you want them to believe at the end. Write down the gap. That gap is your presentation.
 2. List what success means to the key people in the room: targets, recognition, reputation, security, the avoidance of harm. Show each of them how your proposal moves theirs forward.
 3. If the gap between what they believe and what you need is too wide for one meeting, plan two or three. Influencing is the art of patience.
-4. Fit your approach to the audience in front of you on the day. If the mood in the room has changed, change your opening.
+4. Fit the occasion as well as the audience. A board meeting, a conference and a Monday briefing each need a different length, tone and opening. If the mood in the room has changed on the day, change your opening.
 5. Work out what the most sceptical person in the room has heard before. If they have sat through eleven "all hands" meetings, open with something new.
 
 *Below 60.*
@@ -342,7 +342,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Go deeper.** Chapter Two. Workbook Tool 12: The Knowledge Ladder.
 
-**Read online.** [The best way to explain complex concepts, Part 2](https://www.presentation-guru.com/the-best-way-to-explain-complex-concepts-part-2/), on Presentation Guru.
+**Read online.** [How the ladder of abstraction can help the public speaker](https://www.presentation-guru.com/the-ladder-of-abstraction-for-speakers/), on Presentation Guru.
 
 ### Fit 4. Defines the presentation objective
 
@@ -377,7 +377,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **From Jim's notebook.** "There is no such thing as "I am only presenting data". Your data does have meaning." (Presentation Guru, 2018)
 
-**Go deeper.** Chapter Three. Workbook Tool 2: Statement of Intent.
+**Go deeper.** Chapter Three, including "Find your one sentence". Workbook Tool 2: Statement of Intent.
 
 **Read online.** [The one thing that will make you a better communicator](https://www.presentation-guru.com/whats-the-one-thing-that-will-make-you-a-better-communicator/), on Presentation Guru.
 
@@ -447,13 +447,13 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 2. Write the first and last sixty seconds word for word, and rehearse them until they are certain.
 3. Build the bridge into Act Two: describe what happens if they do nothing. It gives the middle a reason to exist.
 4. Open with the audience's situation. Your own background can wait until Act Two, if it is needed at all.
-5. Signpost the middle. Tell the audience how many points there are, and say when you move from one to the next.
+5. After your opening, tell the audience in one or two sentences where you are taking them. Then say how many points there are, and when you move from one to the next.
 
 **From Jim's notebook.** "The purpose of the beginning is to get people ready for the middle." (Jim Harvey)
 
-**Go deeper.** Chapter Three. Workbook Tool 4: The Three-Act Storyboard, and Tool 8: Prologue and Epilogue.
+**Go deeper.** Chapter Three, including "Signpost the route". Workbook Tool 4: The Three-Act Storyboard, and Tool 8: Prologue and Epilogue.
 
-**Read online.** [Even the shortest story needs structure](https://www.presentation-guru.com/even-the-shortest-story-needs-structure/), on Presentation Guru.
+**Read online.** [A good presentation needs structure](https://www.presentation-guru.com/a-good-presentation-needs-structure/), on Presentation Guru.
 
 ### Focus 3. Tests and refines the draft
 
@@ -527,7 +527,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Go deeper.** Chapter Four, Section One. Workbook Tool 7: Visual Aid Review.
 
-**Read online.** [The simple rules that help us design better visual aids, Part Two](https://www.presentation-guru.com/what-are-the-simple-rules-that-help-us-design-better-visual-aids-part-two/), on Presentation Guru.
+**Read online.** [There are only 6 types of slides you should be using](https://www.presentation-guru.com/there-are-only-6-types-of-slides-you-should-be-using-and-this-isnt-one-of-them/), on Presentation Guru.
 
 ### Flair: Message 1. Uses interesting and powerful language
 
@@ -591,7 +591,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 *Below 60.*
 
-1. Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes.
+1. Find one real example from your own experience that shows your central point. Tell it as a beginning, a middle and an end, in under two minutes. Give it a turning point, where things go wrong before they go right.
 2. Open with one question: "Of all the things we will cover today, which matters most to you?" Then use the answers.
 3. Give people time to think before you ask for answers. A minute to make a note gets far better replies than calling on someone cold.
 4. Start with questions people can answer easily: a show of hands, a quick vote, a one-word reply. Move to open questions once the room is warm.
@@ -601,7 +601,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Go deeper.** Chapter Four, Section One. Workbook Tool 4: The Three-Act Storyboard.
 
-**Read online.** [Make your sales presentations land and stick, using ancient stories](https://www.presentation-guru.com/make-your-sales-presentations-land-and-stick-using-ancient-stories-to-sell-modern-technology/), on Presentation Guru.
+**Read online.** [Even the shortest story needs structure](https://www.presentation-guru.com/even-the-shortest-story-needs-structure/), on Presentation Guru.
 
 ### Flair: Message 3. Handles questions effectively
 
@@ -621,22 +621,22 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 *60 and above.*
 
 1. Prepare for the hardest question, the one you hope nobody asks.
-2. Prepare each answer three ways: in fifteen seconds, in two minutes and in ten. Use the shortest unless the room asks for more.
+2. Prepare a fifteen-second, a two-minute and a five-minute answer to the question you most expect. Use the shortest unless the room asks for more.
 3. Meet a hostile question in four steps: acknowledge the concern, thank them for raising it, agree with what you can, then give your answer.
-4. On a panel, keep each answer to three sentences at most. If the audience wants more, they will ask.
-5. Prepare for the five questions every audience carries: how is this useful to me, what do I need to do, what is the risk, where is the evidence, and what will it cost?
+4. Keep one question in your pocket to ask yourself if the room is slow to start.
+5. Build your close from what the audience asked, and end the session yourself.
 
 *Below 60.*
 
-1. Write down ten questions you might be asked and prepare a clear answer to each.
-2. Take questions after each act and before your close, so the last word is yours.
-3. Repeat each question before you answer it, and check that it is a question. Practise saying "I do not know, and I will find out" until it sounds confident.
-4. Wait three seconds after the question ends before you answer. It shows you listened, and it gives you time to think.
-5. Predict questions from the material you cut. The audience will often ask about exactly what you left out.
+1. Before your next presentation, list the subjects your audience could raise and the three questions you would least like to hear.
+2. Tell the audience at the start when you will take questions, and take them before your close, so the last word is yours.
+3. Ask "What questions do you have for me?" in place of "Any questions?"
+4. Repeat each question before you answer it, then wait three seconds. It shows you listened, and it gives you time to think.
+5. When you do not know an answer, say so, name a date, and follow up by then.
 
-**From Jim's notebook.** "Fluency is the love-child of practice and preparation." (Presentation Guru, 2016)
+**From Jim's notebook.** "Most unexpected questions can be expected. Prepare for them the way you prepare for the presentation." (Fit, Focus and Flair, Chapter Five)
 
-**Go deeper.** Chapter Five. Workbook Tool 9: The Thirty-Minute Slot Planner.
+**Go deeper.** Chapter Five, Section Two: The Questions. Workbook Tool 13: The Question Planner.
 
 **Read online.** [How to prepare for the unexpected questions](https://www.presentation-guru.com/how-to-prepare-for-the-unexpected-question/), on Presentation Guru.
 
@@ -673,9 +673,9 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **From Jim's notebook.** "Write much less and rehearse much more." (jim-harvey.com, 2013)
 
-**Go deeper.** Chapter Five. Workbook Tool 8: Prologue and Epilogue, and Tool 9: The Thirty-Minute Slot Planner.
+**Go deeper.** Chapter Five, Section One, and "Plan the short version" in Chapter Three. Workbook Tool 8: Prologue and Epilogue, and Tool 9: The Thirty-Minute Slot Planner.
 
-**Read online.** [5 really simple and cheap ways to improve your presentation skills](https://www.presentation-guru.com/5-really-simple-and-cheap-ways-to-improve-your-presentation-skills/), on Presentation Guru.
+**Read online.** [The 4 most important steps when preparing your speech](https://www.presentation-guru.com/the-4-most-important-steps-when-preparing-your-speech/), on Presentation Guru.
 
 ### Flair: Delivery 2. Uses voice with skill
 
@@ -704,7 +704,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 1. Read a page of a book aloud: breathe at each comma, pause twice as long at each full stop and three times as long at a new paragraph. Five minutes a day for a week.
 2. Finish every word, above all the last consonant. Say the hard sounds properly and your speed looks after itself.
-3. Record yourself rehearsing and listen back for the flat stretches. Mark them, and rehearse those sections again.
+3. Record yourself rehearsing and listen back for the flat stretches and the filler words, such as "so" and "um". Rehearse those sections again, and replace each filler word with a pause.
 4. Speak with your own voice: the one you use with a friend across the table, with the volume turned up for the room.
 5. Find your energy setting. Picture a dial from nought to ten. Nervous speakers sit at about three. Aim for six or seven.
 
@@ -731,7 +731,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 *60 and above.*
 
-1. Plan where you will stand for each act and when you will move. Use movement to mark a change of section.
+1. Plan where you will stand for each act and when you will move. Use movement to mark a change of section. Step towards the audience to raise the energy, and stand still for the line that matters most.
 2. Give each important line to one person, as if you wrote it for them.
 3. When nerves narrow your range, broaden it on purpose: a bigger gesture, a fuller expression, a longer look.
 4. Use your face. Try saying "no" with your eyebrows down and then up, and notice how the meaning changes.
@@ -742,7 +742,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 1. Ask a colleague to watch your next presentation for one thing only: habits such as swaying, hands in pockets or a closed stance.
 2. Finish each sentence with one person. Give them the whole thought before you move to the next.
 3. When you look down at your notes or turn to the screen, stop speaking. Look up, then speak.
-4. Plant your feet for your opening line. Stand still while you say it, then move.
+4. Plant your feet for your opening line. Stand still while you say it, then move. Between gestures, let your hands rest at your sides.
 5. Watch a recording of yourself with the sound off. Find the one habit that distracts most, and fix that first.
 
 **From Jim's notebook.** "Face the audience and make simple eye contact with them. That is all that matters." (Jim Harvey)
@@ -779,7 +779,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 1. Build a short routine for the ten minutes before you present: breathing, a little movement, a moment of quiet. Use it every time.
 2. Write down the three things you want the audience to take away, and hold your attention there. When your mind turns to how you feel, look at the audience.
 3. If something goes wrong, do not apologise. Smile, and carry on. An audience will forgive almost anything unless you embarrass them.
-4. Decide who you are talking to in your head. Picture one friendly person in the room, and talk to them.
+4. Map your nerves on two scales: how many people are listening, and how well you know them. Find the kind of room that worries you most, and practise there on purpose, starting small.
 5. If you feel underprepared, you probably are. Book one extra rehearsal into your diary before the day.
 
 **From Jim's notebook.** "Most people prepare the content and forget to prepare the person." (Open-Source Charisma)
@@ -818,7 +818,7 @@ Take the free assessment again at fff-assessment.themessagebusiness.com. Compare
 
 One page, at the end of every report.
 
-**The book.** Fit, Focus and Flair goes deeper into every idea in this report. Each subscale page names the chapter to read and the workbook tool to use.
+**The book.** Fit, Focus and Flair, by Jim Harvey and John Zimmer, goes deeper into every idea in this report. Each subscale page names the chapter to read and the workbook tool to use.
 
 **StoryMachine.** \[Shown in full when a priority sits in Fit, Focus or Flair: Message.\] Your priorities sit in building the story. StoryMachine helps you build your next presentation in the same three acts this report describes: who the audience is, what you want from them, and the argument that gets you there. Your report gives you five stories free at storymachine.themessagebusiness.com/fffpro.
 
@@ -827,6 +827,8 @@ One page, at the end of every report.
 **Workshops and coaching.** If you work with a team that presents to clients, to leaders or to large audiences, The Message Business runs workshops and coaching built on Fit, Focus and Flair. Every participant starts from their own profile, and the work goes where it will make the most difference. Using FFF Pro with a team? Ask about programme codes and team licences.
 
 **Get in touch.** jim.harvey@themessagebusiness.com, or www.themessagebusiness.com.
+
+**Thanks.** Some practice steps in this report draw on John Zimmer's Manner of Speaking, used with his permission.
 
 Jim Harvey
 
