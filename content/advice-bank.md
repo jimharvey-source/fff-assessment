@@ -270,6 +270,23 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [The most important thing that trumps all when presenting](https://www.presentation-guru.com/the-most-important-thing-that-trumps-all-when-presenting/), on Presentation Guru.
 
+**A story from the book.** Harry, an American marketing executive, opened a talk to 150 people from central and eastern Europe with his company's aim: its white goods in every kitchen in the region. A Polish woman put her hand up. She lived with her husband and her parents in a two-bedroom flat in Warsaw. There was no room in her kitchen for anything but a table. The hall applauded her, and Harry never won them back. Xavi, an IT manager, did the opposite. Before he asked his engineers to accept a disruptive change, he worked out what they loved: writing code and building new things. His case was simple. Do this, and you will get to do more of the work you came here for. Harry assumed. Xavi asked.
+
+**Try this now.** From Workbook Tool 1: Audience Analysis.
+
+1. Who exactly is in the room? Names, roles and how each one relates to your subject.
+2. What do they believe about this subject today?
+3. What do you want them to believe when you have finished?
+4. What is the gap between those two positions? That gap is your brief.
+5. What do they want to hear, and what do they need to hear? Are those the same?
+6. Who can you speak to before you prepare? One call or one email will do.
+
+**Further reading.**
+
+- [Sawubona: "see" your audience](https://www.presentation-guru.com/sawubona-see-your-audience/). John Zimmer, Presentation Guru. Approach every talk by asking how you can help the people in front of you.
+- [Empathy for your audience](https://mannerofspeaking.org/2022/02/21/empathy-for-your-audience/). John Zimmer, Manner of Speaking. Why a test audience shows you what your slides assume they already know.
+- [Presenting to angry and difficult audiences? Try subtlety](https://www.presentation-guru.com/presenting-to-angry-and-difficult-audiences-try-subtlety/). Jim Harvey, Presentation Guru. Research the room first, then move people who are set against you.
+
 ### Fit 2. Understands themselves as a speaker
 
 *Six questions*
@@ -306,6 +323,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **Go deeper.** Chapter Four, Section Two. Workbook Tool 11: The Feedback Request.
 
 **Read online.** [How to get over Impostor Syndrome when you are presenting](https://www.presentation-guru.com/how-to-get-over-impostor-syndrome-when-youre-presenting/), on Presentation Guru.
+
+**A story from the book.** Two people sell the Big Issue on the same street. The first stares, leans in and mutters, "Big Issue, mate?" You cross the road. The second catches your eye, smiles and says, "Morning. Like to buy a Big Issue?" You hand over the price of a coffee and feel good for the rest of the morning. Same product, same price, a different result. An audience makes the same judgement about you in the first minute, before it has weighed a word of your argument. Knowing how you come across is what lets you choose how you come across.
+
+**Try this now.** From Workbook Tool 11: The Feedback Request.
+
+1. After your next important presentation, ask three people for feedback: a colleague, someone from the audience, and someone who has never seen you present.
+2. Send them three questions in advance. In one sentence, what was my main point? What is my greatest strength as a speaker? What one thing could I do differently next time?
+3. If you hear only praise, ask what one thing they would love to see you do more of.
+4. Before you prepare, ask yourself how this audience will see you, from your role, your background or your reputation.
+5. Look for what more than one person said. Choose one change and try it.
+
+**Further reading.**
+
+- [12 tips for receiving feedback](https://mannerofspeaking.org/2014/04/20/12-tips-for-receiving-feedback/). John Zimmer, Manner of Speaking. How to ask people to watch for something specific, and how to filter what you hear.
+- [Speech evaluations](https://mannerofspeaking.org/2009/05/29/speech-evaluations/). John Zimmer, Manner of Speaking. Ten lessons from the Toastmasters evaluation contest: a model for the feedback you ask others to give.
 
 ### Fit 3. Understands their subject
 
@@ -344,6 +376,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [How the ladder of abstraction can help the public speaker](https://www.presentation-guru.com/the-ladder-of-abstraction-for-speakers/), on Presentation Guru.
 
+**A story from the book.** At university I got a C for an essay. The note in the margin said: "You have given me two thousand words of facts and five hundred words of opinions. It should have been the other way around." I have thought about that note in almost every presentation since. Knowing a subject well tempts you to show all of it. Facts feel safe. Conclusions feel exposed, because a judgement can be wrong. The audience remembers conclusions. Give them enough evidence to trust you, then tell them what it means.
+
+**Try this now.** From Workbook Tool 12: The Knowledge Ladder.
+
+1. Place yourself on the ladder for this subject: subject matter expert, practitioner, informed guide, or one step ahead of the audience.
+2. Place the audience on the same ladder, and look at the gap between you.
+3. If the gap is wide, lead with what it means for them. Keep how it works for questions.
+4. If the gap is narrow, prepare for the hard questions and name your sources.
+5. Write down the three things you are least sure of. Check each one, and note the source and its date.
+
+**Further reading.**
+
+- [The best way to explain complex concepts, Part 1](https://www.presentation-guru.com/the-best-way-to-explain-complex-concepts-part-1/). Jim Harvey, Presentation Guru. Eight ways to explain a hard idea: define your terms, break it into chunks, compare it with the familiar.
+- [Making data meaningful](https://mannerofspeaking.org/2010/11/12/making-data-meaningful/). John Zimmer, Manner of Speaking. How one project turned neutral data into a call to action.
+
 ### Fit 4. Defines the presentation objective
 
 *Four questions*
@@ -380,6 +427,20 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **Go deeper.** Chapter Three, including "Find your one sentence". Workbook Tool 2: Statement of Intent.
 
 **Read online.** [The one thing that will make you a better communicator](https://www.presentation-guru.com/whats-the-one-thing-that-will-make-you-a-better-communicator/), on Presentation Guru.
+
+**A story from the book.** A senior manager at a London insurer needed a million pounds for software that spots fraudulent claims. The trial showed it would save three million pounds a year for three years. He started at the beginning: how the software worked, where it was trialled, why it mattered. Five minutes in, Steve, the most senior person in the room, stopped him. "What are you asking for?" A million pounds. "What do I get back?" Nine million over three years. "When were you going to tell me that?" The answer was slide thirty-six. Steve approved it in the room, four minutes after the right question. Decide what you want from the audience, and say it first.
+
+**Try this now.** From Workbook Tool 2: Statement of Intent.
+
+1. Write one or two sentences that begin: "After this presentation, the audience will..."
+2. Test it. Could someone else read it and know whether you succeeded? If not, rewrite it until they could.
+3. Then write your message in one sentence: what you want the audience to believe when you finish.
+4. A topic name does not count. If you cannot write the sentence, you are not ready to build the presentation.
+
+**Further reading.**
+
+- [What is your sentence?](https://mannerofspeaking.org/2010/08/14/whats-your-sentence/). John Zimmer, Manner of Speaking. Distil every presentation into one sentence, two at most, and say why the audience should care.
+- [How to write a speech outline](https://mannerofspeaking.org/2020/06/12/how-to-write-a-speech-outline/). John Zimmer, Manner of Speaking. The objective and the one-sentence message come before the main points: the plan before the build.
 
 ### Focus 1. Identifies the key points
 
@@ -418,6 +479,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [The small changes to your speech that will have a big effect](https://www.presentation-guru.com/the-small-changes-to-your-speech-that-will-have-a-big-effect/), on Presentation Guru.
 
+**A story from the book.** Think of viewing a house. The price is right, the street is quiet and there are roses round the door. Five minutes inside, you have a headache. The house is fine. You simply cannot see it: carpets, rugs, chandeliers, 146 pictures and several cats hide the walls, the floor and the shape of the rooms. A presentation works the same way. An audience can arrive willing to listen and leave with almost nothing, because the three points that mattered were buried under everything else you know. My father put the cure in five words: let the dog see the bone.
+
+**Try this now.** From Workbook Tool 3: The Central Argument, and Tool 6: Clutter Audit.
+
+1. Write your central argument in one sentence that someone could disagree with.
+2. Read the opposite of what you have written. If the opposite is absurd, you have written a truism. Rewrite it.
+3. Go through every section and every slide with one question: does this serve the central argument?
+4. If the honest answer is no, remove it. Save it somewhere else if you cannot let it go. It almost never comes back.
+
+**Further reading.**
+
+- [The life-changing magic of tidying up your presentations](https://mannerofspeaking.org/2017/07/18/the-life-changing-magic-of-tidying-up-your-presentations/). John Zimmer, Manner of Speaking. Keep only what earns its place for this audience.
+- [Lessons in simplicity from Apple's former ad agency creative director](https://mannerofspeaking.org/2017/02/02/lessons-in-simplicity-from-apples-former-ad-agency-creative-director/). John Zimmer, Manner of Speaking. Fewer messages, fewer choices and less on each slide.
+- [The TED secret to great public speaking](https://mannerofspeaking.org/2016/05/24/the-ted-secret-to-great-public-speaking/). John Zimmer, Manner of Speaking. One major idea per talk, with everything linked to it.
+
 ### Focus 2. Organises content into a clear structure
 
 *Four questions*
@@ -454,6 +530,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **Go deeper.** Chapter Three, including "Signpost the route". Workbook Tool 4: The Three-Act Storyboard, and Tool 8: Prologue and Epilogue.
 
 **Read online.** [A good presentation needs structure](https://www.presentation-guru.com/a-good-presentation-needs-structure/), on Presentation Guru.
+
+**A story from the book.** Romeo and Juliet opens with fourteen lines from the Chorus that tell the audience the whole story, the ending included. Shakespeare's audiences were restless and noisy, so he gave them the shape first and let them stay to see how it happened. He closes the play the same way, with the Prince returning to the story he promised. Steve Jobs did the same in January 2007. Before he showed anyone the iPhone, he told the room what kind of day it was: "Every once in a while, a revolutionary product comes along that changes everything." Tell them where you are going, take them there, and tell them where they have arrived.
+
+**Try this now.** From Workbook Tool 4: The Three-Act Storyboard.
+
+1. Act One: what is the audience's world today, and why does this matter to them now?
+2. Act Two: two or three points, each with its evidence and its example.
+3. Act Three: the conclusion restated clearly, and the specific action you are asking for.
+4. Short version: which sections go if your time is halved? Mark them now.
+
+**Further reading.**
+
+- [Signpost your presentation](https://mannerofspeaking.org/2025/04/16/signpost-your-presentation/). John Zimmer, Manner of Speaking. Tell the audience where you are taking them, in one or two sentences, before the detail starts.
+- [Transitions in a speech or presentation](https://mannerofspeaking.org/2019/05/12/transitions-in-a-speech-or-presentation/). John Zimmer, Manner of Speaking. Words for moving on, comparing, emphasising and concluding.
+- [10 tips for starting brilliantly](https://www.presentation-guru.com/10-tips-for-starting-brilliantly/). Jim Harvey, Presentation Guru. Ten ways to use the first two minutes, when attention is at its highest.
 
 ### Focus 3. Tests and refines the draft
 
@@ -492,6 +583,20 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [10 tips for the final polish](https://www.presentation-guru.com/10-tips-for-the-final-polish/), on Presentation Guru.
 
+**A story from the book.** A senior manager at a law firm had to lift a team of fifty after months of hard work and little progress. Her draft was careful, thorough and accurate, and it was going to move nobody. We talked it through, and in conversation she said: "It is like one of those Roman slave ships, except there are twenty slave masters banging different drums, and we are all rowing in different directions." We both laughed. That line became her opening, followed by: "We are not slaves, and today I am going to show you how we turn this ship around." Her best line was never in the draft. It came out when she said the story out loud.
+
+**Try this now.** From Workbook Tool 5: The Soundbite.
+
+1. Tell the story out loud to someone who will be in the room, or someone like them.
+2. Ask them to play it back to you. Write down the words they use.
+3. Choose the one line you want them to repeat to a colleague who was not there. Short, specific and slightly unexpected.
+4. Change the draft wherever they looked lost, then test it again.
+
+**Further reading.**
+
+- [12 tips for receiving feedback](https://mannerofspeaking.org/2014/04/20/12-tips-for-receiving-feedback/). John Zimmer, Manner of Speaking. How to take feedback on a draft: ask for something specific, then filter what you hear.
+- [The short version](https://mannerofspeaking.org/2018/05/07/the-short-version/). John Zimmer, Manner of Speaking. Cut your talk to half its length, and you find out what really matters.
+
 ### Focus 4. Creates effective support materials
 
 *Four questions*
@@ -528,6 +633,20 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **Go deeper.** Chapter Four, Section One. Workbook Tool 7: Visual Aid Review.
 
 **Read online.** [There are only 6 types of slides you should be using](https://www.presentation-guru.com/there-are-only-6-types-of-slides-you-should-be-using-and-this-isnt-one-of-them/), on Presentation Guru.
+
+**A story from the book.** At the iPhone launch, Steve Jobs showed the yearly sales of PCs, iPods and mobile phones, one category per click. Then he took away every category except mobile phones. Then he asked a question. Then, with one more click, he gave the answer: one per cent of the market would be ten million phones. Nobody in the room had to read a table. They were led to the number one step at a time, and so it landed. Reveal data in the order that makes your argument, and let the audience see one thing at a time.
+
+**Try this now.** From Workbook Tool 7: Visual Aid Review.
+
+1. Three-second rule: can the audience understand what this slide shows within three seconds? If not, simplify it or remove it.
+2. One-idea rule: does this slide carry more than one idea? If so, split it.
+3. Job test: does this slide illustrate, emphasise or simplify? If it does none of those things, it should not be there.
+
+**Further reading.**
+
+- [What are the simple rules that help us design better visual aids?](https://www.presentation-guru.com/what-are-the-simple-rules-that-help-us-design-better-visual-aids/). Jim Harvey, Presentation Guru. Research-based rules anyone can apply: one idea per slide and fewer objects on screen.
+- [How to "prop up" your next presentation](https://www.presentation-guru.com/how-to-prop-up-your-next-presentation/). John Zimmer, Presentation Guru. A physical object can make a point concrete and memorable.
+- [Rethinking title slides](https://www.presentation-guru.com/rethinking-title-slides/). John Zimmer, Presentation Guru. Use the first slide to say what the talk is about and why it matters.
 
 ### Flair: Message 1. Uses interesting and powerful language
 
@@ -566,6 +685,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [Inspire your audience with these proven verbal hacks](https://www.presentation-guru.com/why-you-should-never-underestimate-the-power-of-the-spoken-word/), on Presentation Guru.
 
+**A story from the book.** Read these two sentences. "We have optimised our logistics to enable seamless integration across platforms." "Your parcel will arrive tomorrow." The second sticks, because it puts the listener at the centre of the sentence. When Steve Jobs launched the iPod, he did not say "a portable MP3 player with 5GB of storage". He said: "1,000 songs in your pocket." The storage was the same. The picture in the listener's head was completely different. Find the words that show the audience what your point means in their own life.
+
+**Try this now.** From Chapter Four, Section One: Making the message stick.
+
+1. Rewrite your key message from the outside in, with the audience at the centre of the sentence.
+2. Find one striking fact and compare it with something the audience already knows.
+3. Find the picture that shows what your point means in their life, the way "1,000 songs in your pocket" did.
+4. Test your soundbite out loud. When you say it, the room should go quiet.
+
+**Further reading.**
+
+- [11 lessons from Terry Szuplat, speechwriter for Barack Obama](https://mannerofspeaking.org/2026/07/23/11-lessons-from-terry-szuplat-speechwriter-for-barack-obama/). John Zimmer, Manner of Speaking. Give the audience one thing to remember, and make the speech personal.
+- [Sound advice from George Orwell](https://mannerofspeaking.org/2011/06/28/sound-advice-from-george-orwell/). John Zimmer, Manner of Speaking. Orwell's rules for clear writing, applied to speaking.
+- [Lose the jargon](https://mannerofspeaking.org/2015/11/02/lose-the-jargon/). John Zimmer, Manner of Speaking. Say it in words the audience already uses.
+
 ### Flair: Message 2. Engages the audience actively
 
 *Two questions*
@@ -602,6 +736,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **Go deeper.** Chapter Four, Section One. Workbook Tool 4: The Three-Act Storyboard.
 
 **Read online.** [Even the shortest story needs structure](https://www.presentation-guru.com/even-the-shortest-story-needs-structure/), on Presentation Guru.
+
+**A story from the book.** Here is a business story in sixty words. "A client came to us with a pricing problem. They had cut their rates three times in two years trying to hold market share. Each cut cost them margin. None of them held the share. We helped them stop cutting and start differentiating. Twelve months later their margin was back and their retention was higher than before the first cut." A situation, a problem, an action and a result. It does more work than any chart on pricing strategy, in a fraction of the space. Every presentation you give has a story like this somewhere in it. Find it, and tell it.
+
+**Try this now.** From Chapter Four, Section One: The story that makes the point stick.
+
+1. Choose one real example that makes your central argument concrete.
+2. Write it as a situation, a problem, an action and a result.
+3. Keep it under two minutes out loud, or about sixty words on paper.
+4. Say in one sentence which point it proves. If you cannot, choose another story.
+
+**Further reading.**
+
+- [How short can a story be? Ernest Hemingway's special gift](https://www.presentation-guru.com/ernest-hemingway-how-short-can-a-story-be/). Jim Harvey, Presentation Guru. How little a story needs to move people.
+- [What Kurt Vonnegut can teach us about business stories](https://mannerofspeaking.org/2016/03/27/what-kurt-vonnegut-can-teach-us-about-business-stories/). John Zimmer, Manner of Speaking. Story shapes, and why a turning point holds attention.
+- [Humour in a speech: 5 reasons you need it; 10 tips for using it](https://mannerofspeaking.org/2020/08/03/humour/). John Zimmer, Manner of Speaking. Humour builds a bond with the audience and helps the point stick.
 
 ### Flair: Message 3. Handles questions effectively
 
@@ -640,6 +789,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [How to prepare for the unexpected questions](https://www.presentation-guru.com/how-to-prepare-for-the-unexpected-question/), on Presentation Guru.
 
+**A story from the book.** Driving home one evening, I heard a radio interview with the marketing director of a New Zealand honey producer. At the end the presenter gave him a gift: tell our listeners what makes it so special. Silence. Then: what does it taste like? More silence, then one word. "Medicinal." Compare Tony Benn, the former Cabinet minister, who told me how he prepared for a television panel. Hours before, he wrote on index cards every subject the audience might raise, the likely questions under each, what his opponents would say, and his own answer with a fact to back it up. He was seldom lost for words. That was no accident.
+
+**Try this now.** From Workbook Tool 13: The Question Planner.
+
+1. Subjects: what could this audience raise?
+2. Questions: under each subject, the three you would least like to hear.
+3. Answers: a fifteen-second version and a two-minute version, each with one fact or example.
+4. The question in your pocket: one you can ask yourself if the room is slow to start.
+5. Timing: when will you take questions, and how will you close them before your final words?
+
+**Further reading.**
+
+- [Presentations: when to take questions](https://mannerofspeaking.org/2012/07/25/presentations-when-to-take-questions/). John Zimmer, Manner of Speaking. Take questions before your conclusion, and keep the last word.
+- [What questions do you have for me?](https://mannerofspeaking.org/2019/12/29/what-questions-do-you-have-for-me/). John Zimmer, Manner of Speaking. A better invitation than "Any questions?", and a question to keep in your pocket.
+
 ### Flair: Delivery 1. Rehearses to build confidence and fluency
 
 *Three questions*
@@ -676,6 +840,22 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **Go deeper.** Chapter Five, Section One, and "Plan the short version" in Chapter Three. Workbook Tool 8: Prologue and Epilogue, and Tool 9: The Thirty-Minute Slot Planner.
 
 **Read online.** [The 4 most important steps when preparing your speech](https://www.presentation-guru.com/the-4-most-important-steps-when-preparing-your-speech/), on Presentation Guru.
+
+**A story from the book.** Before he became a speaker coach, my co-author John Zimmer argued cases in the Canadian courts. Judges did not wait politely for his best point. They told him to skip arguments, took them in a different order, or asked about the one issue he thought least important. He coped because every argument was built in sections he could drop, move or take first, and because he had rehearsed each one on its own. The same will happen to you: the meeting before overruns, and your forty minutes become twenty as you walk in. Rehearse the short version as well as the full one, and the cut costs you nothing.
+
+**Try this now.** From Chapter Three and Workbook Tool 8: Prologue and Epilogue.
+
+1. Mark which sections carry the argument and which could go.
+2. Write a short version, no more than half the length of the full one, and rehearse it out loud.
+3. Write your prologue and epilogue: the big idea at the start, and the return to it at the end with what to do next.
+4. Learn those two until they are certain. Speak the rest from short notes.
+5. Rehearse the full version six times, standing up, with a timer.
+
+**Further reading.**
+
+- [Speakers: it is about time, and how to manage it](https://mannerofspeaking.org/2012/01/22/speakers-its-about-time-and-how-to-manage-it/). John Zimmer, Manner of Speaking. Practise with a timer, know what to cut, and finish on time.
+- [The short version](https://mannerofspeaking.org/2018/05/07/the-short-version/). John Zimmer, Manner of Speaking. Prepare a version half the length of the full one. It protects you when your time is cut.
+- [Reading a speech](https://mannerofspeaking.org/2012/02/13/reading-a-speech/). John Zimmer, Manner of Speaking. Know the material well enough to talk to the audience and leave the page behind.
 
 ### Flair: Delivery 2. Uses voice with skill
 
@@ -714,6 +894,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [10 tips for using your voice](https://www.presentation-guru.com/10-tips-for-using-your-voice/), on Presentation Guru.
 
+**A story from the book.** A colleague, Sarah, asked me to hear her read Shakespeare's Sonnet 116 before her best friend's wedding. She read it the way she imagined an actor would: careful stresses, shaped phrases, every word performed. It left me cold. I asked her to stop thinking about Shakespeare and think about three things: her friend, the occasion and love. Then say what she felt, using the words on the page. By the second line she was in tears. Another colleague walked in and said it was the first time Shakespeare had ever made sense to him. She changed nothing in the words. Her voice changed because she meant them.
+
+**Try this now.** From Chapter Four, Section Two: The voice.
+
+1. After the most important sentence in your next presentation, say nothing for three full seconds.
+2. Mark the places to slow down: your soundbite, your call to action, and the moment you name the problem the audience is living with.
+3. Recall how you explain something to a friend across the table. Bring that voice into the room, with the volume turned up.
+4. Record one rehearsal and listen only to your voice. Mark one place where it goes flat, and rehearse that passage again.
+
+**Further reading.**
+
+- [The power of the pause](https://www.presentation-guru.com/the-power-of-the-pause/). John Zimmer, Presentation Guru. How one fast speaker learned to stop, and what the audience gained.
+- ["So" what?](https://mannerofspeaking.org/2014/05/09/so-what/). John Zimmer, Manner of Speaking. Filler words quietly undermine you. Notice them, then replace them with a pause.
+- [6 tips for speaking English to non-native speakers](https://mannerofspeaking.org/2020/01/08/6-tips-for-speaking-english-to-non-native-speakers/). John Zimmer, Manner of Speaking. Slow down, avoid idioms and keep slides light on words.
+
 ### Flair: Delivery 3. Uses body language with purpose
 
 *Five questions*
@@ -750,6 +945,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 **Go deeper.** Chapter Four, Section Two.
 
 **Read online.** [10 tips for freshening your delivery](https://www.presentation-guru.com/10-tips-for-freshening-your-delivery/), on Presentation Guru.
+
+**A story from the book.** Professor John Antonakis at the University of Lausanne asked MBA students to give short talks, and had audiences rate how charismatic they were. He then taught them a handful of specific tactics, among them deliberate gesture, a face that matched the words, and a varied voice, and asked them to present again. The trained group scored much higher. Their audiences also rated them as more competent and more influential. Nothing about their personalities changed. A few habits did, and anyone can learn them. Your body is part of your message, and you can train it like the rest.
+
+**Try this now.** From Chapter Four, Section Two: The eyes.
+
+1. Choose one person, complete a full thought with them, then move to someone else. Hold each look for a sentence, sometimes two.
+2. Stand still for the line that matters most.
+3. Watch a recording of yourself with the sound off. Write down what your body says, and whether it matches your words.
+4. Fix the one habit that distracts most, and leave the rest for now.
+
+**Further reading.**
+
+- [Ten tips on using body language when delivering a speech](https://mannerofspeaking.org/2012/06/18/ten-tips-on-using-body-language-when-delivering-a-speech/). John Zimmer, Manner of Speaking. Move with purpose: towards the audience to raise the energy, still for authority.
+- [Eye contact](https://mannerofspeaking.org/2009/09/04/eye-contact/). John Zimmer, Manner of Speaking. The most important non-verbal signal you have. Look at people, not at slides or notes.
+- [A good tip, hands down](https://mannerofspeaking.org/2009/05/30/a-good-tip-hands-down/). John Zimmer, Manner of Speaking. What to do with your hands, and when to let them rest.
 
 ### Flair: Delivery 4. Manages psychological and emotional state
 
@@ -788,6 +998,21 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Read online.** [This is what every nervous speaker needs to be told](https://www.presentation-guru.com/this-is-what-every-nervous-speaker-needs-to-be-told/), on Presentation Guru.
 
+**A story from the book.** I was speaking to three hundred people at a Spanish bank's London office, and it was going well. To show my cultural sensitivity, I translated the key word of a Welsh proverb about chasing two rabbits: "Rabbit in Spanish is conejo." The front row dissolved into giggles, and the laughter rolled through the room. I had no idea why. So I laughed with them, asked what I had said, was promised an explanation later, and carried on. In the break I learned that conejo is slang for a part of the anatomy you do not mention in a business presentation. Watching the room, and staying with it when it surprises you, kept that talk alive.
+
+**Try this now.** From Chapter Four, Section Two: Presence is attention.
+
+1. Before you start, swap one question for another. Stop asking "How am I doing?" and ask "Are they following?"
+2. Prepare deeply enough that your attention is free for the audience.
+3. Find a physical stillness before your first line: feet planted, hands at rest, one slow breath.
+4. After the presentation, write down one thing you noticed about the audience. It trains your attention outwards.
+
+**Further reading.**
+
+- [Fear and nerves are normal: here is how to deal with them](https://www.presentation-guru.com/fear-and-nerves-are-normal-but-heres-how-to-deal-with-them/). John Zimmer, Presentation Guru. Practical ways to turn nervous energy into useful energy.
+- [The public speaking fear grid](https://mannerofspeaking.org/2017/11/05/the-public-speaking-fear-grid/). John Zimmer, Manner of Speaking. Map your nerves by audience size and familiarity, then practise where you are least comfortable.
+- [Where is your focus when you speak in public?](https://mannerofspeaking.org/2021/02/08/focus/). John Zimmer, Manner of Speaking. Put your attention on the audience. Check the room and the microphone beforehand, then forget them.
+
 ## Your 90-day plan
 
 One page, built from the reader's two priorities. The report fills the square brackets.
@@ -796,19 +1021,23 @@ Ninety days is long enough to turn a new habit into the way you work. It is shor
 
 **Days 1 to 30. \[Priority 1 name\]**
 
-&#91;What to practise next, from the Priority 1 page, in the reader's band.\]
+&#91;Steps 1 to 3 from the Priority 1 page, in the reader's band.\]
 
-Use it in at least two real presentations this month. After each one, ask: what difference did the change make to me, and my audience? Write the answer down in one line.
+Use them in at least two real presentations this month. Each Friday, write one line: what did I try this week, and what difference did it make to me and my audience?
 
 **Days 31 to 60. \[Priority 2 name\]**
 
-&#91;What to practise next, from the Priority 2 page, in the reader's band.\]
+&#91;Steps 1 to 3 from the Priority 2 page, in the reader's band.\]
 
-Keep the first habit going. Add the second one to at least two more presentations. Ask a colleague to watch one of them and tell you what they noticed.
+Keep the first habit going. Add these steps to at least two more presentations. Ask a colleague to watch one of them and tell you what they noticed. Keep writing your Friday line.
 
 **Days 61 to 90. Bring it together**
 
-Choose one presentation that matters, the kind you would normally worry about. Prepare it with both habits from the start. Rehearse it out loud. After it, read your two one-line notes from the first two months and compare.
+Choose one presentation that matters, the kind you would normally worry about. Prepare it with both habits from the start, and add the last two steps from each priority page:
+
+&#91;Steps 4 and 5 from both priority pages, in the reader's band.\]
+
+Rehearse it out loud. After it, read your Friday lines from the first two months and compare.
 
 **Day 90. Measure again**
 

@@ -127,6 +127,18 @@ for (const s of sections(find('Subscale pages')[0].body, 3)) {
       const nm = lab.text.match(/^"(.+)"\s*\(([^)]+)\)\s*$/s);
       if (nm) entry.note = { text: strip(nm[1]), source: nm[2].trim() };
     }
+    else if (key.startsWith('a story from the book')) entry.story = strip(lab.text);
+    else if (key.startsWith('try this now')) {
+      const next = ps[i + 1] || '';
+      entry.tool = { source: strip(lab.text), steps: /^\d+\. /.test(next) ? next.split('\n').map(l => strip(l.replace(/^\d+\. /, ''))) : [] };
+    }
+    else if (key.startsWith('further reading')) {
+      entry.reading = (ps[i + 1] || '').split('\n').filter(l => /^[-*] /.test(l)).map(l => {
+        const m = l.replace(/^[-*] /, '').match(/^\[([^\]]+)\]\((https?:[^)]+)\)\.\s*([^,]+),\s*([^.]+)\.\s*(.*)$/);
+        if (!m) { errors.push(`${name}: unreadable reading line: ${l.slice(0, 60)}`); return null; }
+        return { title: strip(m[1]), url: m[2], author: m[3].trim(), site: m[4].trim(), why: strip(m[5]) };
+      }).filter(Boolean);
+    }
     else if (key.startsWith('go deeper')) entry.deeper = strip(lab.text);
     else if (key.startsWith('read online')) {
       const lm = lab.text.match(/\[([^\]]+)\]\((https?:[^)]+)\)/);
@@ -137,6 +149,9 @@ for (const s of sections(find('Subscale pages')[0].body, 3)) {
   for (const f of ['score', 'practise']) if (!entry[f]?.high || !entry[f]?.low) errors.push(`${name}: ${f} missing a band`);
   for (const band of ['high', 'low']) if ((entry.practiseList?.[band] || []).length < 5) errors.push(`${name}: fewer than five ways to practise (${band})`);
   if (!entry.note) errors.push(`${name}: no notebook line`);
+  if (!entry.story) errors.push(`${name}: no story from the book`);
+  if ((entry.tool?.steps || []).length < 3) errors.push(`${name}: try this now needs at least three steps`);
+  if ((entry.reading || []).length < 2) errors.push(`${name}: further reading needs at least two pieces`);
   subscales[name] = entry;
 }
 if (Object.keys(subscales).length !== 15) errors.push(`${Object.keys(subscales).length} subscales, expected 15`);

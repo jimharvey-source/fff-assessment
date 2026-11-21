@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-21T10:20:14.862Z",
+  "builtAt": "2026-11-21T10:54:06.912Z",
   "preface": [
     {
       "title": "Your report",
@@ -275,7 +275,42 @@
       "online": {
         "title": "The most important thing that trumps all when presenting",
         "url": "https://www.presentation-guru.com/the-most-important-thing-that-trumps-all-when-presenting/"
-      }
+      },
+      "story": "Harry, an American marketing executive, opened a talk to 150 people from central and eastern Europe with his company's aim: its white goods in every kitchen in the region. A Polish woman put her hand up. She lived with her husband and her parents in a two-bedroom flat in Warsaw. There was no room in her kitchen for anything but a table. The hall applauded her, and Harry never won them back. Xavi, an IT manager, did the opposite. Before he asked his engineers to accept a disruptive change, he worked out what they loved: writing code and building new things. His case was simple. Do this, and you will get to do more of the work you came here for. Harry assumed. Xavi asked.",
+      "tool": {
+        "source": "From Workbook Tool 1: Audience Analysis.",
+        "steps": [
+          "Who exactly is in the room? Names, roles and how each one relates to your subject.",
+          "What do they believe about this subject today?",
+          "What do you want them to believe when you have finished?",
+          "What is the gap between those two positions? That gap is your brief.",
+          "What do they want to hear, and what do they need to hear? Are those the same?",
+          "Who can you speak to before you prepare? One call or one email will do."
+        ]
+      },
+      "reading": [
+        {
+          "title": "Sawubona: \"see\" your audience",
+          "url": "https://www.presentation-guru.com/sawubona-see-your-audience/",
+          "author": "John Zimmer",
+          "site": "Presentation Guru",
+          "why": "Approach every talk by asking how you can help the people in front of you."
+        },
+        {
+          "title": "Empathy for your audience",
+          "url": "https://mannerofspeaking.org/2022/02/21/empathy-for-your-audience/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Why a test audience shows you what your slides assume they already know."
+        },
+        {
+          "title": "Presenting to angry and difficult audiences? Try subtlety",
+          "url": "https://www.presentation-guru.com/presenting-to-angry-and-difficult-audiences-try-subtlety/",
+          "author": "Jim Harvey",
+          "site": "Presentation Guru",
+          "why": "Research the room first, then move people who are set against you."
+        }
+      ]
     },
     "Understands themselves as a speaker": {
       "name": "Understands themselves as a speaker",
@@ -316,7 +351,34 @@
       "online": {
         "title": "How to get over Impostor Syndrome when you are presenting",
         "url": "https://www.presentation-guru.com/how-to-get-over-impostor-syndrome-when-youre-presenting/"
-      }
+      },
+      "story": "Two people sell the Big Issue on the same street. The first stares, leans in and mutters, \"Big Issue, mate?\" You cross the road. The second catches your eye, smiles and says, \"Morning. Like to buy a Big Issue?\" You hand over the price of a coffee and feel good for the rest of the morning. Same product, same price, a different result. An audience makes the same judgement about you in the first minute, before it has weighed a word of your argument. Knowing how you come across is what lets you choose how you come across.",
+      "tool": {
+        "source": "From Workbook Tool 11: The Feedback Request.",
+        "steps": [
+          "After your next important presentation, ask three people for feedback: a colleague, someone from the audience, and someone who has never seen you present.",
+          "Send them three questions in advance. In one sentence, what was my main point? What is my greatest strength as a speaker? What one thing could I do differently next time?",
+          "If you hear only praise, ask what one thing they would love to see you do more of.",
+          "Before you prepare, ask yourself how this audience will see you, from your role, your background or your reputation.",
+          "Look for what more than one person said. Choose one change and try it."
+        ]
+      },
+      "reading": [
+        {
+          "title": "12 tips for receiving feedback",
+          "url": "https://mannerofspeaking.org/2014/04/20/12-tips-for-receiving-feedback/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "How to ask people to watch for something specific, and how to filter what you hear."
+        },
+        {
+          "title": "Speech evaluations",
+          "url": "https://mannerofspeaking.org/2009/05/29/speech-evaluations/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Ten lessons from the Toastmasters evaluation contest: a model for the feedback you ask others to give."
+        }
+      ]
     },
     "Understands their subject": {
       "name": "Understands their subject",
@@ -357,7 +419,34 @@
       "online": {
         "title": "How the ladder of abstraction can help the public speaker",
         "url": "https://www.presentation-guru.com/the-ladder-of-abstraction-for-speakers/"
-      }
+      },
+      "story": "At university I got a C for an essay. The note in the margin said: \"You have given me two thousand words of facts and five hundred words of opinions. It should have been the other way around.\" I have thought about that note in almost every presentation since. Knowing a subject well tempts you to show all of it. Facts feel safe. Conclusions feel exposed, because a judgement can be wrong. The audience remembers conclusions. Give them enough evidence to trust you, then tell them what it means.",
+      "tool": {
+        "source": "From Workbook Tool 12: The Knowledge Ladder.",
+        "steps": [
+          "Place yourself on the ladder for this subject: subject matter expert, practitioner, informed guide, or one step ahead of the audience.",
+          "Place the audience on the same ladder, and look at the gap between you.",
+          "If the gap is wide, lead with what it means for them. Keep how it works for questions.",
+          "If the gap is narrow, prepare for the hard questions and name your sources.",
+          "Write down the three things you are least sure of. Check each one, and note the source and its date."
+        ]
+      },
+      "reading": [
+        {
+          "title": "The best way to explain complex concepts, Part 1",
+          "url": "https://www.presentation-guru.com/the-best-way-to-explain-complex-concepts-part-1/",
+          "author": "Jim Harvey",
+          "site": "Presentation Guru",
+          "why": "Eight ways to explain a hard idea: define your terms, break it into chunks, compare it with the familiar."
+        },
+        {
+          "title": "Making data meaningful",
+          "url": "https://mannerofspeaking.org/2010/11/12/making-data-meaningful/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "How one project turned neutral data into a call to action."
+        }
+      ]
     },
     "Defines the presentation objective": {
       "name": "Defines the presentation objective",
@@ -398,7 +487,33 @@
       "online": {
         "title": "The one thing that will make you a better communicator",
         "url": "https://www.presentation-guru.com/whats-the-one-thing-that-will-make-you-a-better-communicator/"
-      }
+      },
+      "story": "A senior manager at a London insurer needed a million pounds for software that spots fraudulent claims. The trial showed it would save three million pounds a year for three years. He started at the beginning: how the software worked, where it was trialled, why it mattered. Five minutes in, Steve, the most senior person in the room, stopped him. \"What are you asking for?\" A million pounds. \"What do I get back?\" Nine million over three years. \"When were you going to tell me that?\" The answer was slide thirty-six. Steve approved it in the room, four minutes after the right question. Decide what you want from the audience, and say it first.",
+      "tool": {
+        "source": "From Workbook Tool 2: Statement of Intent.",
+        "steps": [
+          "Write one or two sentences that begin: \"After this presentation, the audience will...\"",
+          "Test it. Could someone else read it and know whether you succeeded? If not, rewrite it until they could.",
+          "Then write your message in one sentence: what you want the audience to believe when you finish.",
+          "A topic name does not count. If you cannot write the sentence, you are not ready to build the presentation."
+        ]
+      },
+      "reading": [
+        {
+          "title": "What is your sentence?",
+          "url": "https://mannerofspeaking.org/2010/08/14/whats-your-sentence/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Distil every presentation into one sentence, two at most, and say why the audience should care."
+        },
+        {
+          "title": "How to write a speech outline",
+          "url": "https://mannerofspeaking.org/2020/06/12/how-to-write-a-speech-outline/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "The objective and the one-sentence message come before the main points: the plan before the build."
+        }
+      ]
     },
     "Identifies the key points": {
       "name": "Identifies the key points",
@@ -439,7 +554,40 @@
       "online": {
         "title": "The small changes to your speech that will have a big effect",
         "url": "https://www.presentation-guru.com/the-small-changes-to-your-speech-that-will-have-a-big-effect/"
-      }
+      },
+      "story": "Think of viewing a house. The price is right, the street is quiet and there are roses round the door. Five minutes inside, you have a headache. The house is fine. You simply cannot see it: carpets, rugs, chandeliers, 146 pictures and several cats hide the walls, the floor and the shape of the rooms. A presentation works the same way. An audience can arrive willing to listen and leave with almost nothing, because the three points that mattered were buried under everything else you know. My father put the cure in five words: let the dog see the bone.",
+      "tool": {
+        "source": "From Workbook Tool 3: The Central Argument, and Tool 6: Clutter Audit.",
+        "steps": [
+          "Write your central argument in one sentence that someone could disagree with.",
+          "Read the opposite of what you have written. If the opposite is absurd, you have written a truism. Rewrite it.",
+          "Go through every section and every slide with one question: does this serve the central argument?",
+          "If the honest answer is no, remove it. Save it somewhere else if you cannot let it go. It almost never comes back."
+        ]
+      },
+      "reading": [
+        {
+          "title": "The life-changing magic of tidying up your presentations",
+          "url": "https://mannerofspeaking.org/2017/07/18/the-life-changing-magic-of-tidying-up-your-presentations/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Keep only what earns its place for this audience."
+        },
+        {
+          "title": "Lessons in simplicity from Apple's former ad agency creative director",
+          "url": "https://mannerofspeaking.org/2017/02/02/lessons-in-simplicity-from-apples-former-ad-agency-creative-director/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Fewer messages, fewer choices and less on each slide."
+        },
+        {
+          "title": "The TED secret to great public speaking",
+          "url": "https://mannerofspeaking.org/2016/05/24/the-ted-secret-to-great-public-speaking/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "One major idea per talk, with everything linked to it."
+        }
+      ]
     },
     "Organises content into a clear structure": {
       "name": "Organises content into a clear structure",
@@ -480,7 +628,40 @@
       "online": {
         "title": "A good presentation needs structure",
         "url": "https://www.presentation-guru.com/a-good-presentation-needs-structure/"
-      }
+      },
+      "story": "Romeo and Juliet opens with fourteen lines from the Chorus that tell the audience the whole story, the ending included. Shakespeare's audiences were restless and noisy, so he gave them the shape first and let them stay to see how it happened. He closes the play the same way, with the Prince returning to the story he promised. Steve Jobs did the same in January 2007. Before he showed anyone the iPhone, he told the room what kind of day it was: \"Every once in a while, a revolutionary product comes along that changes everything.\" Tell them where you are going, take them there, and tell them where they have arrived.",
+      "tool": {
+        "source": "From Workbook Tool 4: The Three-Act Storyboard.",
+        "steps": [
+          "Act One: what is the audience's world today, and why does this matter to them now?",
+          "Act Two: two or three points, each with its evidence and its example.",
+          "Act Three: the conclusion restated clearly, and the specific action you are asking for.",
+          "Short version: which sections go if your time is halved? Mark them now."
+        ]
+      },
+      "reading": [
+        {
+          "title": "Signpost your presentation",
+          "url": "https://mannerofspeaking.org/2025/04/16/signpost-your-presentation/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Tell the audience where you are taking them, in one or two sentences, before the detail starts."
+        },
+        {
+          "title": "Transitions in a speech or presentation",
+          "url": "https://mannerofspeaking.org/2019/05/12/transitions-in-a-speech-or-presentation/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Words for moving on, comparing, emphasising and concluding."
+        },
+        {
+          "title": "10 tips for starting brilliantly",
+          "url": "https://www.presentation-guru.com/10-tips-for-starting-brilliantly/",
+          "author": "Jim Harvey",
+          "site": "Presentation Guru",
+          "why": "Ten ways to use the first two minutes, when attention is at its highest."
+        }
+      ]
     },
     "Tests and refines the draft": {
       "name": "Tests and refines the draft",
@@ -521,7 +702,33 @@
       "online": {
         "title": "10 tips for the final polish",
         "url": "https://www.presentation-guru.com/10-tips-for-the-final-polish/"
-      }
+      },
+      "story": "A senior manager at a law firm had to lift a team of fifty after months of hard work and little progress. Her draft was careful, thorough and accurate, and it was going to move nobody. We talked it through, and in conversation she said: \"It is like one of those Roman slave ships, except there are twenty slave masters banging different drums, and we are all rowing in different directions.\" We both laughed. That line became her opening, followed by: \"We are not slaves, and today I am going to show you how we turn this ship around.\" Her best line was never in the draft. It came out when she said the story out loud.",
+      "tool": {
+        "source": "From Workbook Tool 5: The Soundbite.",
+        "steps": [
+          "Tell the story out loud to someone who will be in the room, or someone like them.",
+          "Ask them to play it back to you. Write down the words they use.",
+          "Choose the one line you want them to repeat to a colleague who was not there. Short, specific and slightly unexpected.",
+          "Change the draft wherever they looked lost, then test it again."
+        ]
+      },
+      "reading": [
+        {
+          "title": "12 tips for receiving feedback",
+          "url": "https://mannerofspeaking.org/2014/04/20/12-tips-for-receiving-feedback/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "How to take feedback on a draft: ask for something specific, then filter what you hear."
+        },
+        {
+          "title": "The short version",
+          "url": "https://mannerofspeaking.org/2018/05/07/the-short-version/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Cut your talk to half its length, and you find out what really matters."
+        }
+      ]
     },
     "Creates effective support materials": {
       "name": "Creates effective support materials",
@@ -562,7 +769,39 @@
       "online": {
         "title": "There are only 6 types of slides you should be using",
         "url": "https://www.presentation-guru.com/there-are-only-6-types-of-slides-you-should-be-using-and-this-isnt-one-of-them/"
-      }
+      },
+      "story": "At the iPhone launch, Steve Jobs showed the yearly sales of PCs, iPods and mobile phones, one category per click. Then he took away every category except mobile phones. Then he asked a question. Then, with one more click, he gave the answer: one per cent of the market would be ten million phones. Nobody in the room had to read a table. They were led to the number one step at a time, and so it landed. Reveal data in the order that makes your argument, and let the audience see one thing at a time.",
+      "tool": {
+        "source": "From Workbook Tool 7: Visual Aid Review.",
+        "steps": [
+          "Three-second rule: can the audience understand what this slide shows within three seconds? If not, simplify it or remove it.",
+          "One-idea rule: does this slide carry more than one idea? If so, split it.",
+          "Job test: does this slide illustrate, emphasise or simplify? If it does none of those things, it should not be there."
+        ]
+      },
+      "reading": [
+        {
+          "title": "What are the simple rules that help us design better visual aids?",
+          "url": "https://www.presentation-guru.com/what-are-the-simple-rules-that-help-us-design-better-visual-aids/",
+          "author": "Jim Harvey",
+          "site": "Presentation Guru",
+          "why": "Research-based rules anyone can apply: one idea per slide and fewer objects on screen."
+        },
+        {
+          "title": "How to \"prop up\" your next presentation",
+          "url": "https://www.presentation-guru.com/how-to-prop-up-your-next-presentation/",
+          "author": "John Zimmer",
+          "site": "Presentation Guru",
+          "why": "A physical object can make a point concrete and memorable."
+        },
+        {
+          "title": "Rethinking title slides",
+          "url": "https://www.presentation-guru.com/rethinking-title-slides/",
+          "author": "John Zimmer",
+          "site": "Presentation Guru",
+          "why": "Use the first slide to say what the talk is about and why it matters."
+        }
+      ]
     },
     "Uses interesting and powerful language": {
       "name": "Uses interesting and powerful language",
@@ -603,7 +842,40 @@
       "online": {
         "title": "Inspire your audience with these proven verbal hacks",
         "url": "https://www.presentation-guru.com/why-you-should-never-underestimate-the-power-of-the-spoken-word/"
-      }
+      },
+      "story": "Read these two sentences. \"We have optimised our logistics to enable seamless integration across platforms.\" \"Your parcel will arrive tomorrow.\" The second sticks, because it puts the listener at the centre of the sentence. When Steve Jobs launched the iPod, he did not say \"a portable MP3 player with 5GB of storage\". He said: \"1,000 songs in your pocket.\" The storage was the same. The picture in the listener's head was completely different. Find the words that show the audience what your point means in their own life.",
+      "tool": {
+        "source": "From Chapter Four, Section One: Making the message stick.",
+        "steps": [
+          "Rewrite your key message from the outside in, with the audience at the centre of the sentence.",
+          "Find one striking fact and compare it with something the audience already knows.",
+          "Find the picture that shows what your point means in their life, the way \"1,000 songs in your pocket\" did.",
+          "Test your soundbite out loud. When you say it, the room should go quiet."
+        ]
+      },
+      "reading": [
+        {
+          "title": "11 lessons from Terry Szuplat, speechwriter for Barack Obama",
+          "url": "https://mannerofspeaking.org/2026/07/23/11-lessons-from-terry-szuplat-speechwriter-for-barack-obama/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Give the audience one thing to remember, and make the speech personal."
+        },
+        {
+          "title": "Sound advice from George Orwell",
+          "url": "https://mannerofspeaking.org/2011/06/28/sound-advice-from-george-orwell/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Orwell's rules for clear writing, applied to speaking."
+        },
+        {
+          "title": "Lose the jargon",
+          "url": "https://mannerofspeaking.org/2015/11/02/lose-the-jargon/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Say it in words the audience already uses."
+        }
+      ]
     },
     "Engages the audience actively": {
       "name": "Engages the audience actively",
@@ -644,7 +916,40 @@
       "online": {
         "title": "Even the shortest story needs structure",
         "url": "https://www.presentation-guru.com/even-the-shortest-story-needs-structure/"
-      }
+      },
+      "story": "Here is a business story in sixty words. \"A client came to us with a pricing problem. They had cut their rates three times in two years trying to hold market share. Each cut cost them margin. None of them held the share. We helped them stop cutting and start differentiating. Twelve months later their margin was back and their retention was higher than before the first cut.\" A situation, a problem, an action and a result. It does more work than any chart on pricing strategy, in a fraction of the space. Every presentation you give has a story like this somewhere in it. Find it, and tell it.",
+      "tool": {
+        "source": "From Chapter Four, Section One: The story that makes the point stick.",
+        "steps": [
+          "Choose one real example that makes your central argument concrete.",
+          "Write it as a situation, a problem, an action and a result.",
+          "Keep it under two minutes out loud, or about sixty words on paper.",
+          "Say in one sentence which point it proves. If you cannot, choose another story."
+        ]
+      },
+      "reading": [
+        {
+          "title": "How short can a story be? Ernest Hemingway's special gift",
+          "url": "https://www.presentation-guru.com/ernest-hemingway-how-short-can-a-story-be/",
+          "author": "Jim Harvey",
+          "site": "Presentation Guru",
+          "why": "How little a story needs to move people."
+        },
+        {
+          "title": "What Kurt Vonnegut can teach us about business stories",
+          "url": "https://mannerofspeaking.org/2016/03/27/what-kurt-vonnegut-can-teach-us-about-business-stories/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Story shapes, and why a turning point holds attention."
+        },
+        {
+          "title": "Humour in a speech: 5 reasons you need it; 10 tips for using it",
+          "url": "https://mannerofspeaking.org/2020/08/03/humour/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Humour builds a bond with the audience and helps the point stick."
+        }
+      ]
     },
     "Handles questions effectively": {
       "name": "Handles questions effectively",
@@ -685,7 +990,34 @@
       "online": {
         "title": "How to prepare for the unexpected questions",
         "url": "https://www.presentation-guru.com/how-to-prepare-for-the-unexpected-question/"
-      }
+      },
+      "story": "Driving home one evening, I heard a radio interview with the marketing director of a New Zealand honey producer. At the end the presenter gave him a gift: tell our listeners what makes it so special. Silence. Then: what does it taste like? More silence, then one word. \"Medicinal.\" Compare Tony Benn, the former Cabinet minister, who told me how he prepared for a television panel. Hours before, he wrote on index cards every subject the audience might raise, the likely questions under each, what his opponents would say, and his own answer with a fact to back it up. He was seldom lost for words. That was no accident.",
+      "tool": {
+        "source": "From Workbook Tool 13: The Question Planner.",
+        "steps": [
+          "Subjects: what could this audience raise?",
+          "Questions: under each subject, the three you would least like to hear.",
+          "Answers: a fifteen-second version and a two-minute version, each with one fact or example.",
+          "The question in your pocket: one you can ask yourself if the room is slow to start.",
+          "Timing: when will you take questions, and how will you close them before your final words?"
+        ]
+      },
+      "reading": [
+        {
+          "title": "Presentations: when to take questions",
+          "url": "https://mannerofspeaking.org/2012/07/25/presentations-when-to-take-questions/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Take questions before your conclusion, and keep the last word."
+        },
+        {
+          "title": "What questions do you have for me?",
+          "url": "https://mannerofspeaking.org/2019/12/29/what-questions-do-you-have-for-me/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "A better invitation than \"Any questions?\", and a question to keep in your pocket."
+        }
+      ]
     },
     "Rehearses to build confidence and fluency": {
       "name": "Rehearses to build confidence and fluency",
@@ -726,7 +1058,41 @@
       "online": {
         "title": "The 4 most important steps when preparing your speech",
         "url": "https://www.presentation-guru.com/the-4-most-important-steps-when-preparing-your-speech/"
-      }
+      },
+      "story": "Before he became a speaker coach, my co-author John Zimmer argued cases in the Canadian courts. Judges did not wait politely for his best point. They told him to skip arguments, took them in a different order, or asked about the one issue he thought least important. He coped because every argument was built in sections he could drop, move or take first, and because he had rehearsed each one on its own. The same will happen to you: the meeting before overruns, and your forty minutes become twenty as you walk in. Rehearse the short version as well as the full one, and the cut costs you nothing.",
+      "tool": {
+        "source": "From Chapter Three and Workbook Tool 8: Prologue and Epilogue.",
+        "steps": [
+          "Mark which sections carry the argument and which could go.",
+          "Write a short version, no more than half the length of the full one, and rehearse it out loud.",
+          "Write your prologue and epilogue: the big idea at the start, and the return to it at the end with what to do next.",
+          "Learn those two until they are certain. Speak the rest from short notes.",
+          "Rehearse the full version six times, standing up, with a timer."
+        ]
+      },
+      "reading": [
+        {
+          "title": "Speakers: it is about time, and how to manage it",
+          "url": "https://mannerofspeaking.org/2012/01/22/speakers-its-about-time-and-how-to-manage-it/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Practise with a timer, know what to cut, and finish on time."
+        },
+        {
+          "title": "The short version",
+          "url": "https://mannerofspeaking.org/2018/05/07/the-short-version/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Prepare a version half the length of the full one. It protects you when your time is cut."
+        },
+        {
+          "title": "Reading a speech",
+          "url": "https://mannerofspeaking.org/2012/02/13/reading-a-speech/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Know the material well enough to talk to the audience and leave the page behind."
+        }
+      ]
     },
     "Uses voice with skill": {
       "name": "Uses voice with skill",
@@ -767,7 +1133,40 @@
       "online": {
         "title": "10 tips for using your voice",
         "url": "https://www.presentation-guru.com/10-tips-for-using-your-voice/"
-      }
+      },
+      "story": "A colleague, Sarah, asked me to hear her read Shakespeare's Sonnet 116 before her best friend's wedding. She read it the way she imagined an actor would: careful stresses, shaped phrases, every word performed. It left me cold. I asked her to stop thinking about Shakespeare and think about three things: her friend, the occasion and love. Then say what she felt, using the words on the page. By the second line she was in tears. Another colleague walked in and said it was the first time Shakespeare had ever made sense to him. She changed nothing in the words. Her voice changed because she meant them.",
+      "tool": {
+        "source": "From Chapter Four, Section Two: The voice.",
+        "steps": [
+          "After the most important sentence in your next presentation, say nothing for three full seconds.",
+          "Mark the places to slow down: your soundbite, your call to action, and the moment you name the problem the audience is living with.",
+          "Recall how you explain something to a friend across the table. Bring that voice into the room, with the volume turned up.",
+          "Record one rehearsal and listen only to your voice. Mark one place where it goes flat, and rehearse that passage again."
+        ]
+      },
+      "reading": [
+        {
+          "title": "The power of the pause",
+          "url": "https://www.presentation-guru.com/the-power-of-the-pause/",
+          "author": "John Zimmer",
+          "site": "Presentation Guru",
+          "why": "How one fast speaker learned to stop, and what the audience gained."
+        },
+        {
+          "title": "\"So\" what?",
+          "url": "https://mannerofspeaking.org/2014/05/09/so-what/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Filler words quietly undermine you. Notice them, then replace them with a pause."
+        },
+        {
+          "title": "6 tips for speaking English to non-native speakers",
+          "url": "https://mannerofspeaking.org/2020/01/08/6-tips-for-speaking-english-to-non-native-speakers/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Slow down, avoid idioms and keep slides light on words."
+        }
+      ]
     },
     "Uses body language with purpose": {
       "name": "Uses body language with purpose",
@@ -808,7 +1207,40 @@
       "online": {
         "title": "10 tips for freshening your delivery",
         "url": "https://www.presentation-guru.com/10-tips-for-freshening-your-delivery/"
-      }
+      },
+      "story": "Professor John Antonakis at the University of Lausanne asked MBA students to give short talks, and had audiences rate how charismatic they were. He then taught them a handful of specific tactics, among them deliberate gesture, a face that matched the words, and a varied voice, and asked them to present again. The trained group scored much higher. Their audiences also rated them as more competent and more influential. Nothing about their personalities changed. A few habits did, and anyone can learn them. Your body is part of your message, and you can train it like the rest.",
+      "tool": {
+        "source": "From Chapter Four, Section Two: The eyes.",
+        "steps": [
+          "Choose one person, complete a full thought with them, then move to someone else. Hold each look for a sentence, sometimes two.",
+          "Stand still for the line that matters most.",
+          "Watch a recording of yourself with the sound off. Write down what your body says, and whether it matches your words.",
+          "Fix the one habit that distracts most, and leave the rest for now."
+        ]
+      },
+      "reading": [
+        {
+          "title": "Ten tips on using body language when delivering a speech",
+          "url": "https://mannerofspeaking.org/2012/06/18/ten-tips-on-using-body-language-when-delivering-a-speech/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Move with purpose: towards the audience to raise the energy, still for authority."
+        },
+        {
+          "title": "Eye contact",
+          "url": "https://mannerofspeaking.org/2009/09/04/eye-contact/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "The most important non-verbal signal you have. Look at people, not at slides or notes."
+        },
+        {
+          "title": "A good tip, hands down",
+          "url": "https://mannerofspeaking.org/2009/05/30/a-good-tip-hands-down/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "What to do with your hands, and when to let them rest."
+        }
+      ]
     },
     "Manages psychological and emotional state": {
       "name": "Manages psychological and emotional state",
@@ -849,7 +1281,40 @@
       "online": {
         "title": "This is what every nervous speaker needs to be told",
         "url": "https://www.presentation-guru.com/this-is-what-every-nervous-speaker-needs-to-be-told/"
-      }
+      },
+      "story": "I was speaking to three hundred people at a Spanish bank's London office, and it was going well. To show my cultural sensitivity, I translated the key word of a Welsh proverb about chasing two rabbits: \"Rabbit in Spanish is conejo.\" The front row dissolved into giggles, and the laughter rolled through the room. I had no idea why. So I laughed with them, asked what I had said, was promised an explanation later, and carried on. In the break I learned that conejo is slang for a part of the anatomy you do not mention in a business presentation. Watching the room, and staying with it when it surprises you, kept that talk alive.",
+      "tool": {
+        "source": "From Chapter Four, Section Two: Presence is attention.",
+        "steps": [
+          "Before you start, swap one question for another. Stop asking \"How am I doing?\" and ask \"Are they following?\"",
+          "Prepare deeply enough that your attention is free for the audience.",
+          "Find a physical stillness before your first line: feet planted, hands at rest, one slow breath.",
+          "After the presentation, write down one thing you noticed about the audience. It trains your attention outwards."
+        ]
+      },
+      "reading": [
+        {
+          "title": "Fear and nerves are normal: here is how to deal with them",
+          "url": "https://www.presentation-guru.com/fear-and-nerves-are-normal-but-heres-how-to-deal-with-them/",
+          "author": "John Zimmer",
+          "site": "Presentation Guru",
+          "why": "Practical ways to turn nervous energy into useful energy."
+        },
+        {
+          "title": "The public speaking fear grid",
+          "url": "https://mannerofspeaking.org/2017/11/05/the-public-speaking-fear-grid/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Map your nerves by audience size and familiarity, then practise where you are least comfortable."
+        },
+        {
+          "title": "Where is your focus when you speak in public?",
+          "url": "https://mannerofspeaking.org/2021/02/08/focus/",
+          "author": "John Zimmer",
+          "site": "Manner of Speaking",
+          "why": "Put your attention on the audience. Check the room and the microphone beforehand, then forget them."
+        }
+      ]
     }
   },
   "plan": [
@@ -864,11 +1329,11 @@
     },
     {
       "type": "p",
-      "text": "[What to practise next, from the Priority 1 page, in the reader's band.]"
+      "text": "[Steps 1 to 3 from the Priority 1 page, in the reader's band.]"
     },
     {
       "type": "p",
-      "text": "Use it in at least two real presentations this month. After each one, ask: what difference did the change make to me, and my audience? Write the answer down in one line."
+      "text": "Use them in at least two real presentations this month. Each Friday, write one line: what did I try this week, and what difference did it make to me and my audience?"
     },
     {
       "type": "labelled",
@@ -877,11 +1342,11 @@
     },
     {
       "type": "p",
-      "text": "[What to practise next, from the Priority 2 page, in the reader's band.]"
+      "text": "[Steps 1 to 3 from the Priority 2 page, in the reader's band.]"
     },
     {
       "type": "p",
-      "text": "Keep the first habit going. Add the second one to at least two more presentations. Ask a colleague to watch one of them and tell you what they noticed."
+      "text": "Keep the first habit going. Add these steps to at least two more presentations. Ask a colleague to watch one of them and tell you what they noticed. Keep writing your Friday line."
     },
     {
       "type": "labelled",
@@ -890,7 +1355,15 @@
     },
     {
       "type": "p",
-      "text": "Choose one presentation that matters, the kind you would normally worry about. Prepare it with both habits from the start. Rehearse it out loud. After it, read your two one-line notes from the first two months and compare."
+      "text": "Choose one presentation that matters, the kind you would normally worry about. Prepare it with both habits from the start, and add the last two steps from each priority page:"
+    },
+    {
+      "type": "p",
+      "text": "[Steps 4 and 5 from both priority pages, in the reader's band.]"
+    },
+    {
+      "type": "p",
+      "text": "Rehearse it out loud. After it, read your Friday lines from the first two months and compare."
     },
     {
       "type": "labelled",
