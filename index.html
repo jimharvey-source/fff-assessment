@@ -846,7 +846,7 @@ async function proRedeem(){
   finally{proBusy(false);}
 }
 // Soft launch: the Pro card shows only with ?pro=1 until PRO_LIVE is true.
-var PRO_LIVE=false;
+var PRO_LIVE=true;
 function proPrefill(){
   if(PRO_LIVE||/[?&]pro=1(&|$)/.test(window.location.search)){document.getElementById('pro-card').style.display='block';}
   var e=document.getElementById('email-input');var n=document.getElementById('report-name');

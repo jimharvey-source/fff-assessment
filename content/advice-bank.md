@@ -216,7 +216,7 @@ Two things will make a big difference. The first is to know and show you care ab
 
 Your results show room to grow in all three areas. Taken all at once that can feel like a lot. Taken in the right order, it is manageable.
 
-Start with Fit, because everything else depends on it. A presentation that begins from a clear understanding of what the audience needs has the wind behind it from the start. Then work on Focus: decide the one thing you most need them to take away and cut everything that does not serve it. Flair comes last, because it needs a structure to sit on.
+Start with your two priorities, because that is where practice will show first. After that, work in order. Fit comes first, because everything else depends on it: a presentation that begins from a clear understanding of what the audience needs has the wind behind it from the start. Then Focus: decide the one thing you most need them to take away and cut everything that does not serve it. Flair comes last, because it needs a structure to sit on.
 
 &#91;Personal paragraph.\]
 
@@ -683,7 +683,7 @@ Each subscale page runs under the four locked headers. What this measures and Wh
 
 **Go deeper.** Chapter Four, Section One. Workbook Tool 5: The Soundbite.
 
-**Read online.** [Inspire your audience with these proven verbal hacks](https://www.presentation-guru.com/why-you-should-never-underestimate-the-power-of-the-spoken-word/), on Presentation Guru.
+**Read online.** [A masterclass in rhetoric: make your words sing](https://www.presentation-guru.com/a-masterclass-in-rhetoric-a-presentation-guru-podcast/), on Presentation Guru.
 
 **A story from the book.** Read these two sentences. "We have optimised our logistics to enable seamless integration across platforms." "Your parcel will arrive tomorrow." The second sticks, because it puts the listener at the centre of the sentence. When Steve Jobs launched the iPod, he did not say "a portable MP3 player with 5GB of storage". He said: "1,000 songs in your pocket." The storage was the same. The picture in the listener's head was completely different. Find the words that show the audience what your point means in their own life.
 
