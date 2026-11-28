@@ -161,6 +161,7 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
 .practice-action{font-size:15px;font-weight:500;line-height:1.4;margin-bottom:3px;}
 .practice-reason{font-size:13px;color:var(--grey-text);line-height:1.5;}
 .subscale-section{margin-bottom:56px;}
+.subscale-more{display:none;font-size:15px;line-height:1.6;color:var(--black);margin:8px 0 0;}
 .subscale-group{margin-bottom:26px;}
 .subscale-group-label{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:10px;padding-bottom:6px;border-bottom:2px solid var(--grey-light);}
 .subscale-group-label.fit{color:var(--fit);border-color:var(--fit);}
@@ -475,13 +476,13 @@ body{font-family:'Barlow',sans-serif;background:var(--white);color:var(--black);
     <div class="section-heading">Your Development Plan</div>
     <div class="priority-banner" id="priority-banner"></div>
     <div id="practice-menu" style="margin-bottom:40px;"></div>
-    <div class="subscale-section"><div class="section-heading">Your Scores by Competency</div><div id="subscale-breakdown"></div></div>
+    <div class="subscale-section"><div class="section-heading">Your Scores by Competency</div><div id="subscale-breakdown"></div><p class="subscale-more" id="subscale-more">Your scores on all fifteen competencies, ranked, with what to practise for each, are in your full report.</p></div>
     <div class="pro-card" id="pro-card" style="display:none">
       <div class="pro-eyebrow">FFF Pro</div>
       <h3>Your full report</h3>
       <p>A personal PDF of about eighteen pages, written to your own scores. It goes well beyond this page.</p>
       <ul>
-        <li>Your profile in depth, with a paragraph written for you</li>
+        <li>Your profile in depth, with how to develop it, written for you</li>
         <li>All fifteen subscales ranked, each with what to practise next</li>
         <li>Your two development priorities, with principles, hints and practical tips</li>
         <li>A 90-day plan built on your priorities</li>
@@ -785,21 +786,23 @@ function showResults(){
   };
   setCard('fit',s.fitP);setCard('focus',s.focusP);setCard('flairmsg',s.fmP);setCard('flairdel',s.fdP);
   document.getElementById('r-profile-heading').textContent=prof.heading;
-  document.getElementById('r-profile-text').innerHTML='<p>'+prof.text+'</p><p style="margin-top:10px">'+prof.dev+'</p>';
+  document.getElementById('r-profile-text').innerHTML='<p>'+prof.text+'</p>'; // the development paragraph is in FFF Pro (Jim and John, 27 November 2026)
   document.getElementById('fff-grid').innerHTML=['FFF','FFf','FfF','Fff','fFF','fFf','ffF','fff'].map(k=>'<div class="fff-cell '+(k===s.key?'active':'')+'"><div class="fff-cell-code">'+k+'</div><div class="fff-cell-name">'+PROFILES[k].name+'</div></div>').join('');
   const subList=Object.entries(s.subScores).filter(([n])=>PRACTICE[n]).sort((a,b)=>a[1].pct-b[1].pct);
   const p1=subList[0],p2=subList[1];
-  document.getElementById('priority-banner').innerHTML='Your two biggest development opportunities are <strong>'+(p1?p1[0]:'')+'</strong> ('+(p1?p1[1].pct:0)+'%) and <strong>'+(p2?p2[0]:'')+'</strong> ('+(p2?p2[1].pct:0)+'%). These are expanded below.';
+  document.getElementById('priority-banner').innerHTML='Your two biggest development opportunities are <strong>'+(p1?p1[0]:'')+'</strong> ('+(p1?p1[1].pct:0)+'%) and <strong>'+(p2?p2[0]:'')+'</strong> ('+(p2?p2[1].pct:0)+'%). Here is one thing to practise for each.';
   const menu=document.getElementById('practice-menu');menu.innerHTML='';
-  subList.forEach(([name,data],idx)=>{
-    const isPri=idx<2;const items=(PRACTICE[name]||[]).slice(0,isPri?4:3);const cid='cat'+idx;
+  // Free tool as lead magnet (Jim and John, 27 November 2026): the two priorities, one tip each. The rest is in FFF Pro.
+  subList.slice(0,2).forEach(([name,data],idx)=>{
+    const isPri=true;const items=(PRACTICE[name]||[]).slice(0,1);const cid='cat'+idx;
     const div=document.createElement('div');div.className='practice-category'+(isPri?' priority open':'');
     div.innerHTML='<div class="practice-cat-header" onclick="toggleCat(\''+cid+'\')"><div class="practice-cat-left">'+(isPri?'<div class="priority-dot"></div>':'')+'<div><div class="practice-cat-name">'+name+'</div><div class="practice-cat-score">'+data.pct+'%</div></div></div><div style="display:flex;align-items:center;gap:8px;">'+(isPri?'<span class="priority-tag">Priority</span>':'')+'<div class="practice-cat-arrow">\u25BE</div></div></div><div class="practice-cat-body" id="'+cid+'">'+items.map((it,i)=>'<div class="practice-item"><div class="practice-num">'+(i+1)+'</div><div><div class="practice-action">'+it[0]+'</div><div class="practice-reason">'+it[1]+'</div></div></div>').join('')+'</div>';
     menu.appendChild(div);
   });
   const groups={fit:[],focus:[],'flair-msg':[],'flair-del':[]};Object.entries(s.subScores).forEach(([n,d])=>groups[d.dim].push({name:n,pct:d.pct}));
   const dl={fit:{label:'Fit',cls:'fit'},focus:{label:'Focus',cls:'focus'},'flair-msg':{label:'Flair: Message',cls:'flair-msg'},'flair-del':{label:'Flair: Delivery',cls:'flair-del'}};
-  document.getElementById('subscale-breakdown').innerHTML=Object.entries(groups).map(([dim,subs])=>'<div class="subscale-group"><div class="subscale-group-label '+dl[dim].cls+'">'+dl[dim].label+'</div>'+subs.map(sub=>'<div class="subscale-row"><div class="subscale-name">'+sub.name+'</div><div class="subscale-bar-wrap"><div class="subscale-bar-fill '+dl[dim].cls+'" style="width:0%" data-pct="'+sub.pct+'"></div></div><div class="subscale-pct">'+sub.pct+'%</div></div>').join('')+'</div>').join('');
+  document.getElementById('subscale-breakdown').innerHTML=''; // the fifteen subscales are in FFF Pro
+  if(false)document.getElementById('subscale-breakdown').innerHTML=Object.entries(groups).map(([dim,subs])=>'<div class="subscale-group"><div class="subscale-group-label '+dl[dim].cls+'">'+dl[dim].label+'</div>'+subs.map(sub=>'<div class="subscale-row"><div class="subscale-name">'+sub.name+'</div><div class="subscale-bar-wrap"><div class="subscale-bar-fill '+dl[dim].cls+'" style="width:0%" data-pct="'+sub.pct+'"></div></div><div class="subscale-pct">'+sub.pct+'%</div></div>').join('')+'</div>').join('');
   setTimeout(()=>{document.querySelectorAll('.subscale-bar-fill').forEach(el=>{el.style.width=el.dataset.pct+'%';});},400);
 }
 
@@ -848,7 +851,7 @@ async function proRedeem(){
 // Soft launch: the Pro card shows only with ?pro=1 until PRO_LIVE is true.
 var PRO_LIVE=true;
 function proPrefill(){
-  if(PRO_LIVE||/[?&]pro=1(&|$)/.test(window.location.search)){document.getElementById('pro-card').style.display='block';}
+  if(PRO_LIVE||/[?&]pro=1(&|$)/.test(window.location.search)){document.getElementById('pro-card').style.display='block';document.getElementById('subscale-more').style.display='block';}
   var e=document.getElementById('email-input');var n=document.getElementById('report-name');
   if(e&&e.value)document.getElementById('pro-email').value=e.value.trim();
   if(n&&n.value)document.getElementById('pro-name').value=n.value.trim();
